@@ -1,0 +1,1001 @@
+gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,Contract,MonthlyCharges,TotalCharges,Churn
+Male,0,Yes,No,48,No,No phone service,DSL,No internet service,One year,58.98,6332.73,Yes
+Male,0,Yes,No,57,Yes,Yes,Fiber optic,No internet service,Month-to-month,75.24,832.95,No
+Male,1,Yes,Yes,69,No,No phone service,Fiber optic,No,One year,95.73,8983.57,Yes
+Female,1,Yes,No,60,Yes,No,Fiber optic,No,One year,84.1,5733.85,Yes
+Female,0,Yes,No,25,No,No phone service,DSL,No,One year,52.73,7867.98,Yes
+Female,0,Yes,No,38,Yes,No,DSL,No,Month-to-month,54.65,7475.78,No
+Female,1,No,Yes,57,Yes,No phone service,No,Yes,Month-to-month,96.3,6905.68,No
+Male,0,Yes,Yes,26,Yes,No,No,Yes,Two year,73.46,401.05,No
+Male,0,No,No,39,No,No,No,Yes,One year,29.8,4672.38,No
+Female,1,Yes,No,30,No,No,No,No internet service,One year,35.3,2986.93,Yes
+Male,1,No,Yes,2,Yes,No phone service,Fiber optic,No internet service,One year,105.12,1060.81,No
+Male,0,Yes,Yes,14,Yes,No phone service,DSL,No,One year,119.88,3119.76,No
+Male,1,No,Yes,53,No,Yes,Fiber optic,No,Month-to-month,53.57,5820.99,Yes
+Male,1,Yes,No,69,No,No,DSL,Yes,Month-to-month,58.67,2114.11,No
+Female,0,Yes,Yes,10,Yes,Yes,DSL,Yes,One year,35.45,4029.13,Yes
+Male,0,Yes,Yes,29,Yes,Yes,Fiber optic,Yes,One year,43.57,3670.22,Yes
+Male,0,No,Yes,34,Yes,No,Fiber optic,No,One year,62.46,519.54,No
+Male,0,Yes,Yes,42,No,Yes,DSL,Yes,One year,48.44,5671.34,Yes
+Male,0,Yes,No,60,Yes,No phone service,No,No,Two year,90.14,5588.68,Yes
+Female,0,Yes,Yes,39,No,Yes,No,No,Two year,73.78,8699.41,Yes
+Male,0,No,No,41,No,No phone service,DSL,No internet service,One year,102.23,2717.15,No
+Male,1,No,Yes,41,Yes,No,Fiber optic,No internet service,One year,92.45,3799.61,No
+Female,0,Yes,No,2,No,No,Fiber optic,No,One year,32.81,3662.56,No
+Female,1,Yes,No,20,Yes,No,DSL,Yes,Two year,32.34,8281.71,Yes
+Female,0,No,No,52,Yes,Yes,Fiber optic,No,Month-to-month,109.56,3707.41,No
+Female,0,No,No,43,No,No,DSL,No,Two year,101.95,4012.74,No
+Female,0,Yes,Yes,45,Yes,No,DSL,No,Two year,66.79,2308.48,Yes
+Female,0,Yes,No,36,No,No phone service,DSL,No,One year,33.04,60.45,No
+Male,0,Yes,No,37,No,Yes,Fiber optic,No internet service,One year,109.86,1038.53,No
+Male,0,No,No,37,Yes,Yes,No,No internet service,Month-to-month,43.07,6349.81,Yes
+Female,1,No,No,10,No,No,DSL,No,One year,23.55,6158.34,No
+Male,0,Yes,No,44,No,Yes,Fiber optic,No internet service,One year,112.42,2936.65,Yes
+Male,0,No,Yes,63,Yes,No,No,No internet service,Month-to-month,100.89,4283.41,No
+Male,0,No,No,43,No,No phone service,DSL,Yes,One year,89.35,2711.54,No
+Male,1,Yes,No,61,Yes,Yes,No,No internet service,One year,23.4,6591.7,No
+Male,1,Yes,No,60,Yes,Yes,Fiber optic,No internet service,One year,72.84,7590.37,Yes
+Female,0,Yes,No,11,No,No phone service,No,No,Two year,85.36,8096.99,No
+Male,0,No,No,8,No,Yes,No,No internet service,One year,95.93,1606.15,No
+Male,0,No,Yes,66,Yes,No,Fiber optic,No internet service,Two year,67.11,6270.4,Yes
+Female,0,Yes,Yes,1,No,Yes,DSL,No internet service,One year,115.33,8668.89,No
+Male,0,No,Yes,7,Yes,Yes,Fiber optic,No,One year,44.48,5872.97,Yes
+Male,1,No,No,42,No,No phone service,Fiber optic,No,Two year,26.97,3191.22,No
+Male,0,No,No,17,Yes,No phone service,DSL,No internet service,Two year,53.28,5741.72,No
+Male,1,No,Yes,51,Yes,No,DSL,No,One year,86.18,6211.41,No
+Male,1,Yes,No,38,No,Yes,Fiber optic,No,Month-to-month,93.72,3603.57,No
+Male,0,No,Yes,30,No,Yes,DSL,Yes,One year,93.85,980.72,No
+Female,1,Yes,No,13,No,No phone service,DSL,No internet service,Two year,31.07,5479.61,No
+Male,0,No,No,63,Yes,No,Fiber optic,Yes,One year,108.51,7229.16,Yes
+Female,1,Yes,No,43,Yes,Yes,Fiber optic,No internet service,One year,48.08,8978.31,No
+Female,0,No,Yes,59,No,No,Fiber optic,No internet service,Two year,40.99,2046.37,Yes
+Male,0,Yes,Yes,1,No,Yes,Fiber optic,Yes,Month-to-month,81.45,6318.48,No
+Male,0,Yes,Yes,31,Yes,No phone service,No,Yes,Month-to-month,41.18,300.99,Yes
+Male,0,No,Yes,35,No,No phone service,No,No internet service,Two year,70.8,8729.94,Yes
+Female,1,No,Yes,54,No,No phone service,DSL,Yes,Two year,60.7,162.45,Yes
+Female,1,Yes,Yes,62,Yes,No phone service,No,Yes,One year,43.2,3261.21,No
+Female,1,No,No,68,No,No phone service,No,No,Two year,49.21,733.8,No
+Male,0,Yes,Yes,39,Yes,No phone service,No,No internet service,Two year,62.74,5607.66,Yes
+Female,0,Yes,Yes,23,Yes,No,DSL,No,One year,54.62,3088.52,Yes
+Male,1,Yes,Yes,57,No,No phone service,No,No internet service,One year,58.16,6609.85,Yes
+Male,0,Yes,Yes,27,No,No,Fiber optic,No,One year,93.54,4403.08,Yes
+Female,0,No,No,61,No,No phone service,Fiber optic,No internet service,Month-to-month,36.84,3803.66,Yes
+Female,1,No,Yes,24,Yes,Yes,DSL,No,Month-to-month,82.76,3169.22,Yes
+Male,0,No,Yes,6,Yes,Yes,DSL,No internet service,Two year,87.82,820.86,No
+Female,1,No,Yes,37,Yes,Yes,DSL,No,One year,100.21,1883.18,No
+Female,0,No,Yes,70,No,No,No,Yes,Two year,104.73,5769.97,Yes
+Male,0,Yes,No,44,Yes,No phone service,DSL,No internet service,Two year,35.87,4495.93,No
+Female,1,No,No,31,Yes,No,DSL,Yes,Month-to-month,33.83,677.3,Yes
+Female,1,No,No,31,Yes,No phone service,DSL,No,Month-to-month,81.48,4918.37,Yes
+Male,1,No,Yes,0,No,Yes,Fiber optic,No internet service,Two year,95.69,534.58,No
+Male,1,Yes,Yes,44,Yes,No,DSL,No,One year,47.23,4629.96,Yes
+Female,1,No,Yes,63,No,No phone service,Fiber optic,No,Month-to-month,72.58,8686.4,No
+Female,0,No,No,67,No,No,Fiber optic,Yes,Month-to-month,97.22,2800.73,Yes
+Female,1,No,No,6,Yes,No,DSL,No internet service,Month-to-month,96.75,6525.35,Yes
+Male,0,No,Yes,37,Yes,Yes,DSL,No,Two year,85.38,6722.69,No
+Female,0,No,Yes,69,Yes,Yes,No,Yes,Month-to-month,27.88,3673.49,No
+Male,1,Yes,Yes,52,No,Yes,DSL,Yes,One year,25.06,5359.96,No
+Male,1,No,No,29,No,Yes,DSL,Yes,Month-to-month,58.84,4274.81,Yes
+Male,0,No,Yes,21,No,Yes,DSL,Yes,Two year,22.67,2586.1,No
+Male,1,No,No,57,No,No phone service,DSL,No,Two year,110.41,6804.94,Yes
+Female,1,Yes,No,54,Yes,No phone service,DSL,No,Two year,22.01,6340.3,Yes
+Female,0,No,No,45,Yes,Yes,DSL,No,Two year,22.96,8109.91,No
+Female,0,No,No,25,No,Yes,No,No internet service,One year,36.53,5582.23,Yes
+Female,1,Yes,Yes,63,No,Yes,No,No internet service,Two year,82.7,3529.05,No
+Female,0,No,No,8,No,No,DSL,Yes,Month-to-month,74.16,6440.37,No
+Male,0,Yes,Yes,14,No,Yes,No,No,One year,85.95,5590.37,Yes
+Male,0,No,No,18,No,No phone service,Fiber optic,Yes,Two year,109.36,5568.7,Yes
+Female,0,Yes,Yes,15,No,No phone service,No,No,Two year,65.49,7656.05,No
+Female,0,Yes,No,24,No,No,Fiber optic,No internet service,One year,24.39,8198.69,No
+Female,0,Yes,No,50,No,No phone service,DSL,Yes,Month-to-month,96.35,1663.16,Yes
+Female,0,Yes,No,45,Yes,Yes,Fiber optic,No,One year,101.2,2860.75,No
+Male,0,No,Yes,6,Yes,No,DSL,No,Month-to-month,24.99,5870.24,Yes
+Female,0,Yes,No,33,No,No,No,No,Month-to-month,44.28,5037.13,Yes
+Male,0,Yes,No,57,Yes,No phone service,Fiber optic,Yes,Two year,97.06,5888.32,No
+Male,1,No,No,22,Yes,Yes,Fiber optic,No internet service,One year,57.62,3925.48,Yes
+Female,1,No,No,22,Yes,Yes,Fiber optic,No,One year,67.27,3741.33,No
+Male,1,Yes,Yes,16,No,Yes,DSL,Yes,Two year,102.32,1103.0,No
+Female,0,Yes,Yes,12,No,No,DSL,No,Two year,29.46,5631.65,Yes
+Male,0,No,Yes,26,No,No phone service,No,Yes,Month-to-month,87.73,1623.28,Yes
+Male,0,Yes,Yes,65,Yes,No phone service,No,No internet service,Two year,41.5,6055.64,Yes
+Male,0,No,No,29,No,No phone service,DSL,No,One year,26.27,8705.3,No
+Male,0,No,No,3,Yes,Yes,No,Yes,Two year,86.25,2344.89,No
+Male,1,Yes,No,66,No,No,Fiber optic,No,Two year,32.14,1322.26,No
+Female,0,No,Yes,13,No,No,Fiber optic,Yes,Two year,94.7,266.37,No
+Male,1,No,No,10,Yes,No phone service,Fiber optic,No internet service,Two year,40.27,3440.5,No
+Female,1,Yes,Yes,39,No,No phone service,No,No internet service,Two year,24.85,1970.77,No
+Female,1,No,Yes,2,Yes,No,Fiber optic,Yes,Month-to-month,29.93,4452.14,Yes
+Male,0,No,Yes,0,No,No phone service,Fiber optic,No internet service,Two year,104.13,4742.54,Yes
+Female,1,Yes,No,8,No,No,DSL,No,Two year,57.1,3176.48,Yes
+Male,0,No,No,0,No,No,DSL,No internet service,One year,50.23,6761.66,No
+Female,0,No,No,15,Yes,No phone service,No,No,Two year,69.12,8148.02,Yes
+Female,1,Yes,Yes,71,No,No,DSL,No internet service,One year,83.29,1943.13,No
+Male,1,No,No,45,Yes,No,No,No internet service,One year,23.71,7534.87,Yes
+Female,1,No,No,9,Yes,No phone service,No,No,One year,109.82,1224.13,Yes
+Female,0,No,Yes,32,Yes,No phone service,DSL,No internet service,One year,115.85,2096.88,Yes
+Female,0,No,No,40,No,No phone service,DSL,No,Month-to-month,61.73,5074.67,Yes
+Male,1,Yes,No,50,No,No,No,No,Month-to-month,61.26,2793.9,No
+Female,0,No,Yes,21,No,No phone service,No,No internet service,One year,107.86,423.31,No
+Female,0,Yes,Yes,15,No,No phone service,No,No internet service,Month-to-month,62.93,2689.11,Yes
+Male,0,No,No,61,No,No,Fiber optic,No,Month-to-month,105.62,8148.59,Yes
+Female,1,Yes,Yes,52,Yes,No,Fiber optic,Yes,Two year,22.83,1609.3,No
+Male,1,No,No,13,Yes,No phone service,DSL,No internet service,Month-to-month,68.97,6885.57,No
+Female,1,Yes,No,58,Yes,No phone service,Fiber optic,No internet service,One year,115.24,6514.42,Yes
+Female,0,Yes,Yes,25,Yes,No,Fiber optic,Yes,One year,45.28,1000.71,Yes
+Female,1,No,Yes,43,Yes,No,No,Yes,One year,46.62,2998.51,Yes
+Male,0,No,Yes,19,Yes,Yes,Fiber optic,No internet service,One year,83.01,1744.74,Yes
+Female,0,Yes,Yes,4,No,No,DSL,No internet service,Two year,112.62,257.19,Yes
+Male,0,Yes,No,64,Yes,No,Fiber optic,No internet service,Month-to-month,39.87,1598.71,Yes
+Male,0,Yes,Yes,10,Yes,Yes,Fiber optic,Yes,One year,112.17,1854.12,No
+Female,1,Yes,Yes,46,Yes,No phone service,Fiber optic,No internet service,Two year,86.3,1535.52,No
+Female,1,Yes,Yes,9,Yes,Yes,DSL,Yes,One year,119.3,865.32,No
+Male,0,Yes,Yes,60,No,No,DSL,Yes,Month-to-month,93.65,4760.43,No
+Female,1,No,No,44,Yes,Yes,No,No,Two year,86.78,2937.62,Yes
+Female,1,No,Yes,46,No,Yes,Fiber optic,Yes,Month-to-month,101.49,8178.83,No
+Female,1,Yes,Yes,33,No,Yes,No,No,Two year,37.51,1725.56,No
+Female,1,Yes,No,12,Yes,Yes,No,Yes,One year,114.6,5445.62,No
+Male,1,No,Yes,22,Yes,Yes,DSL,Yes,One year,36.56,8110.55,Yes
+Female,1,Yes,No,35,No,Yes,No,No,Month-to-month,22.57,472.35,Yes
+Male,1,Yes,No,62,Yes,No phone service,Fiber optic,No,Month-to-month,89.79,4670.68,Yes
+Male,1,No,No,46,Yes,Yes,No,No,Two year,38.46,4083.49,No
+Male,1,No,No,65,Yes,Yes,DSL,No,Month-to-month,95.88,8362.57,No
+Male,1,Yes,Yes,13,No,Yes,DSL,No,Month-to-month,99.5,5990.69,Yes
+Male,1,No,No,52,Yes,Yes,DSL,No,One year,43.67,3174.99,Yes
+Male,0,Yes,Yes,65,No,No,Fiber optic,No,One year,28.67,6418.11,No
+Male,0,No,No,48,No,Yes,No,Yes,One year,70.08,5264.75,Yes
+Female,1,Yes,No,15,No,Yes,Fiber optic,Yes,One year,109.02,3157.17,Yes
+Female,1,Yes,Yes,67,Yes,Yes,DSL,No,One year,104.73,7077.98,No
+Male,1,Yes,Yes,42,No,No phone service,Fiber optic,No internet service,One year,31.71,6030.12,No
+Female,1,Yes,No,64,Yes,Yes,DSL,No,One year,116.48,98.48,No
+Female,0,No,Yes,8,No,No,Fiber optic,No internet service,Two year,46.39,7792.95,Yes
+Female,0,No,No,20,Yes,No phone service,Fiber optic,Yes,One year,54.94,3603.97,No
+Female,1,No,Yes,42,Yes,No,No,Yes,One year,34.91,5826.76,No
+Male,0,Yes,No,65,No,No phone service,No,No internet service,One year,57.78,3601.08,Yes
+Female,1,No,Yes,3,No,No phone service,DSL,Yes,One year,83.56,7938.19,Yes
+Male,0,Yes,Yes,6,No,Yes,No,No,One year,70.61,5874.98,Yes
+Female,1,Yes,No,57,Yes,Yes,No,No internet service,Month-to-month,102.75,5235.51,No
+Female,0,No,No,3,Yes,No phone service,Fiber optic,No internet service,Month-to-month,84.13,8823.37,No
+Male,0,No,No,19,Yes,Yes,DSL,Yes,One year,46.35,2561.73,Yes
+Male,0,Yes,Yes,34,No,Yes,Fiber optic,No internet service,One year,75.74,634.03,No
+Male,1,Yes,Yes,58,Yes,No phone service,Fiber optic,No internet service,One year,26.42,4668.29,No
+Female,0,No,No,44,Yes,No phone service,No,No internet service,Two year,78.08,3844.96,No
+Female,1,No,Yes,13,Yes,No,No,Yes,One year,58.97,4115.9,No
+Female,0,No,No,21,No,No phone service,DSL,No internet service,Two year,29.84,5599.94,Yes
+Male,0,No,Yes,47,No,No,No,No internet service,Two year,50.75,5555.34,No
+Male,1,No,Yes,29,Yes,No,Fiber optic,No,One year,109.81,3560.77,No
+Male,1,Yes,Yes,28,No,Yes,No,No,Month-to-month,78.6,7772.75,No
+Male,1,Yes,No,35,No,Yes,DSL,No internet service,One year,110.33,5880.55,Yes
+Male,0,Yes,Yes,41,No,No phone service,DSL,Yes,One year,61.08,8014.71,No
+Female,1,No,Yes,28,No,No phone service,Fiber optic,No internet service,Month-to-month,117.89,8222.73,No
+Male,1,Yes,Yes,6,No,No,Fiber optic,Yes,Month-to-month,56.0,1547.44,No
+Male,1,No,Yes,31,No,No,No,No,One year,95.68,6141.03,Yes
+Female,0,No,No,12,No,Yes,DSL,No,One year,50.54,2891.73,No
+Male,1,No,Yes,12,No,No phone service,Fiber optic,No internet service,Two year,30.6,7536.04,Yes
+Male,1,Yes,Yes,53,No,No phone service,No,Yes,Month-to-month,103.31,6609.02,No
+Male,0,Yes,Yes,13,Yes,No phone service,No,Yes,Two year,96.26,1828.79,Yes
+Male,1,Yes,Yes,5,Yes,No phone service,No,Yes,Two year,102.06,8451.64,Yes
+Female,0,Yes,No,15,No,Yes,Fiber optic,No internet service,Two year,49.97,6167.14,No
+Male,1,No,Yes,40,No,Yes,Fiber optic,Yes,Two year,90.37,8540.27,No
+Female,1,No,Yes,51,No,No,No,No,Month-to-month,41.99,1857.1,Yes
+Male,1,Yes,Yes,15,No,Yes,No,Yes,Month-to-month,21.13,7833.86,Yes
+Female,1,Yes,Yes,4,Yes,No,Fiber optic,Yes,Month-to-month,106.65,6029.25,No
+Female,0,No,No,23,No,Yes,DSL,No internet service,One year,72.35,4992.97,No
+Male,0,Yes,Yes,42,Yes,Yes,No,No internet service,Two year,118.37,7393.59,No
+Female,0,Yes,Yes,64,Yes,No phone service,DSL,No internet service,One year,58.5,5714.13,No
+Female,0,No,No,9,Yes,No,DSL,No internet service,Month-to-month,115.69,6042.92,No
+Female,0,Yes,Yes,58,Yes,No,Fiber optic,No internet service,Month-to-month,81.51,2320.35,No
+Male,0,Yes,No,34,Yes,No,Fiber optic,Yes,One year,71.22,7362.63,No
+Female,1,Yes,Yes,30,Yes,Yes,DSL,Yes,Two year,50.28,5870.21,Yes
+Female,1,No,Yes,10,No,No phone service,Fiber optic,No internet service,Month-to-month,102.53,7607.28,Yes
+Female,1,Yes,Yes,8,No,Yes,DSL,No internet service,Two year,102.88,3196.17,No
+Male,0,Yes,Yes,65,Yes,No phone service,DSL,Yes,Two year,61.69,3018.81,No
+Male,1,No,Yes,43,No,Yes,Fiber optic,No internet service,Month-to-month,92.73,263.93,No
+Female,0,No,Yes,15,Yes,No,Fiber optic,No,One year,64.72,6929.02,Yes
+Female,0,No,Yes,47,No,Yes,No,Yes,Two year,93.97,3006.31,Yes
+Male,1,No,Yes,52,Yes,No,Fiber optic,No,One year,119.42,2978.55,No
+Female,1,No,Yes,64,Yes,No phone service,No,Yes,Two year,46.25,6213.73,No
+Male,0,No,Yes,47,No,No,Fiber optic,Yes,Two year,83.41,2313.18,Yes
+Female,0,No,Yes,69,Yes,No,Fiber optic,Yes,Month-to-month,57.99,8185.73,Yes
+Female,0,Yes,Yes,45,No,No,Fiber optic,Yes,One year,74.84,4865.69,Yes
+Male,1,No,No,32,Yes,No,Fiber optic,Yes,Two year,107.41,8726.82,No
+Male,0,No,Yes,51,No,No phone service,DSL,Yes,One year,54.76,736.19,No
+Female,0,No,No,54,No,Yes,Fiber optic,Yes,Two year,27.24,3064.59,Yes
+Male,1,Yes,No,50,No,Yes,DSL,No internet service,One year,99.89,3464.16,No
+Female,0,Yes,Yes,39,No,Yes,Fiber optic,No internet service,One year,75.5,6587.27,No
+Female,1,No,No,24,No,Yes,Fiber optic,No internet service,Month-to-month,64.94,1956.01,No
+Male,0,No,Yes,62,Yes,No,DSL,No,Two year,38.33,3409.35,Yes
+Female,1,No,Yes,21,Yes,No phone service,Fiber optic,Yes,Two year,29.29,8200.25,Yes
+Female,0,Yes,No,37,No,No phone service,No,No internet service,Two year,47.87,1075.23,Yes
+Male,1,No,No,8,Yes,Yes,No,No internet service,Two year,91.89,6720.65,No
+Female,0,Yes,No,36,Yes,Yes,Fiber optic,No internet service,Month-to-month,61.18,6337.24,No
+Female,0,Yes,Yes,4,No,No phone service,No,Yes,Month-to-month,77.02,1218.02,Yes
+Female,1,No,No,21,No,No phone service,No,Yes,Two year,28.2,6211.99,No
+Female,1,Yes,No,11,Yes,No,No,No,One year,32.32,5149.56,Yes
+Male,0,No,No,59,No,No phone service,No,No,Month-to-month,21.13,2623.32,No
+Female,0,Yes,Yes,43,No,No phone service,DSL,Yes,One year,87.33,2834.71,No
+Female,0,Yes,Yes,21,No,No,DSL,No,One year,46.45,7505.28,No
+Female,0,Yes,No,5,Yes,No,DSL,No internet service,One year,116.69,2117.58,No
+Female,0,No,No,26,No,No,No,No,Two year,50.85,4639.39,No
+Male,0,Yes,No,54,Yes,No phone service,No,No internet service,Month-to-month,56.36,6146.29,Yes
+Male,0,Yes,No,14,No,No phone service,DSL,No,Two year,66.95,1212.62,Yes
+Male,1,No,No,63,Yes,No phone service,No,No internet service,One year,51.91,8394.57,No
+Female,0,Yes,No,16,No,No,DSL,No,Two year,101.74,2382.68,Yes
+Female,1,Yes,No,2,No,No phone service,DSL,No,One year,107.62,2903.57,No
+Male,0,No,Yes,9,No,No phone service,DSL,Yes,Two year,21.1,6011.74,No
+Male,0,No,No,62,Yes,No,No,Yes,Two year,85.47,749.82,No
+Female,1,No,No,62,Yes,Yes,DSL,No internet service,Month-to-month,88.61,5667.13,Yes
+Male,0,Yes,Yes,61,Yes,Yes,Fiber optic,Yes,Month-to-month,116.14,8248.47,No
+Female,1,Yes,No,8,Yes,No phone service,DSL,No internet service,One year,57.04,2279.36,No
+Female,0,Yes,Yes,23,No,No,DSL,Yes,One year,39.53,3289.07,Yes
+Female,0,Yes,No,31,No,No,Fiber optic,Yes,One year,72.06,2129.39,No
+Female,0,Yes,Yes,2,Yes,No phone service,No,No internet service,Two year,64.76,7377.98,Yes
+Female,0,No,No,32,Yes,No phone service,DSL,No,One year,99.17,1550.09,Yes
+Female,1,Yes,No,42,Yes,Yes,Fiber optic,No internet service,Month-to-month,110.4,3152.32,Yes
+Female,1,No,Yes,11,Yes,No,No,No internet service,One year,28.67,5429.15,Yes
+Female,1,Yes,Yes,31,Yes,No phone service,Fiber optic,No internet service,One year,104.66,3670.76,Yes
+Male,0,Yes,Yes,19,Yes,No,DSL,Yes,Two year,110.9,635.95,Yes
+Male,1,No,No,66,No,No phone service,Fiber optic,Yes,Month-to-month,112.41,8532.1,Yes
+Male,0,Yes,No,67,Yes,Yes,No,Yes,One year,96.43,3074.21,No
+Male,1,Yes,No,16,Yes,No phone service,DSL,No internet service,Month-to-month,94.21,4038.58,No
+Female,0,No,No,18,Yes,Yes,Fiber optic,No,One year,21.49,1549.53,No
+Male,1,No,No,3,No,Yes,No,No,Month-to-month,112.02,7794.88,No
+Male,1,Yes,Yes,16,Yes,No phone service,No,No internet service,One year,55.15,2658.29,No
+Female,1,No,No,63,No,No phone service,DSL,No internet service,One year,24.11,227.42,No
+Male,1,Yes,Yes,21,No,Yes,DSL,No,Two year,61.3,2881.8,No
+Male,0,No,Yes,65,Yes,No,DSL,Yes,Two year,93.29,8857.33,No
+Male,1,Yes,No,41,No,No,DSL,No internet service,Month-to-month,64.2,1364.24,Yes
+Male,1,No,No,44,Yes,Yes,Fiber optic,No,Month-to-month,95.8,329.26,No
+Female,1,No,Yes,10,No,Yes,No,No,Month-to-month,70.94,5224.67,No
+Male,1,Yes,No,52,Yes,No phone service,DSL,No,Month-to-month,49.94,3376.42,Yes
+Male,0,No,Yes,59,Yes,No phone service,DSL,Yes,Two year,40.29,7165.03,Yes
+Male,0,No,No,28,No,Yes,DSL,No,Month-to-month,62.11,6600.4,Yes
+Male,0,No,Yes,19,Yes,Yes,Fiber optic,No,One year,23.58,1709.5,No
+Female,1,Yes,No,4,Yes,No,No,No,One year,62.25,5103.46,Yes
+Female,1,No,No,24,No,No,No,No internet service,One year,26.86,340.3,Yes
+Male,0,No,No,33,No,No,DSL,No internet service,Two year,107.7,3983.33,Yes
+Female,0,No,Yes,11,Yes,Yes,No,No internet service,Month-to-month,77.55,6440.78,Yes
+Female,0,Yes,No,27,No,Yes,Fiber optic,No,One year,84.6,3763.88,No
+Female,0,Yes,Yes,5,Yes,No,No,No,One year,48.89,1105.69,Yes
+Female,0,No,No,18,No,No,DSL,Yes,Two year,42.58,600.73,No
+Male,1,Yes,No,11,No,No phone service,No,No,Two year,90.79,7690.25,Yes
+Female,1,No,Yes,24,No,No phone service,Fiber optic,Yes,Two year,87.16,8027.38,Yes
+Male,0,Yes,Yes,12,Yes,Yes,Fiber optic,No,One year,32.27,3120.68,Yes
+Male,1,No,Yes,2,Yes,No phone service,No,Yes,Two year,43.86,1519.34,No
+Male,1,Yes,No,23,Yes,Yes,No,No internet service,One year,114.66,8808.62,Yes
+Male,0,No,No,7,Yes,Yes,DSL,No,Month-to-month,50.42,4935.48,No
+Male,0,No,No,44,Yes,Yes,DSL,Yes,One year,22.58,4316.06,Yes
+Male,0,Yes,No,71,No,No,DSL,No internet service,Month-to-month,26.38,6687.39,No
+Male,0,No,No,0,Yes,No phone service,No,No internet service,One year,97.55,1561.38,No
+Male,1,No,No,2,No,No phone service,Fiber optic,No,Month-to-month,95.72,5240.91,Yes
+Male,1,No,No,64,No,No phone service,Fiber optic,Yes,One year,58.18,8016.95,Yes
+Male,1,Yes,Yes,14,No,No phone service,No,Yes,One year,35.32,256.46,Yes
+Female,1,No,No,49,Yes,No,Fiber optic,Yes,One year,69.81,6072.81,No
+Female,0,No,Yes,19,No,No phone service,Fiber optic,No internet service,One year,53.19,4985.24,Yes
+Female,1,No,No,2,Yes,No phone service,No,Yes,Two year,57.4,8559.67,No
+Male,0,Yes,Yes,60,Yes,No,Fiber optic,No internet service,One year,46.1,2365.35,No
+Male,1,No,Yes,14,Yes,No phone service,No,Yes,One year,26.29,7737.08,No
+Male,1,Yes,Yes,58,Yes,No phone service,DSL,No internet service,Two year,99.12,2815.42,No
+Male,0,No,No,53,No,No,Fiber optic,No,Two year,81.82,3897.28,No
+Male,0,Yes,Yes,59,Yes,No,No,No internet service,Two year,103.46,1958.92,No
+Female,0,Yes,Yes,36,No,No,Fiber optic,Yes,Two year,70.32,7779.14,No
+Female,1,Yes,Yes,20,No,No,Fiber optic,No internet service,Two year,118.5,1798.92,Yes
+Male,0,No,Yes,22,Yes,Yes,DSL,Yes,Two year,116.25,7738.17,Yes
+Male,1,Yes,No,17,No,No,No,No,Two year,47.18,4127.74,No
+Female,1,Yes,No,16,No,No phone service,DSL,No internet service,Two year,58.7,7524.02,Yes
+Female,0,Yes,No,30,No,No phone service,Fiber optic,No,Two year,95.27,2417.17,Yes
+Female,1,Yes,No,63,Yes,No phone service,Fiber optic,No internet service,Two year,97.66,1237.93,No
+Male,0,Yes,Yes,47,No,No phone service,Fiber optic,No internet service,Two year,111.07,5016.9,Yes
+Male,0,Yes,No,25,Yes,Yes,No,No,Month-to-month,85.26,4609.46,No
+Male,1,Yes,Yes,21,Yes,Yes,DSL,No,One year,67.51,3241.64,No
+Male,1,Yes,No,44,Yes,Yes,No,No internet service,One year,57.77,5982.25,Yes
+Female,1,Yes,Yes,35,Yes,No phone service,Fiber optic,No internet service,Two year,61.92,901.53,No
+Female,0,No,Yes,63,No,No phone service,DSL,No internet service,Two year,105.04,5616.91,No
+Male,0,Yes,Yes,34,No,No,Fiber optic,No,Month-to-month,118.0,1945.22,Yes
+Female,0,Yes,Yes,26,No,No,DSL,Yes,Two year,25.19,1204.14,Yes
+Male,1,Yes,No,67,Yes,No phone service,No,No,Month-to-month,78.02,8190.99,No
+Female,0,Yes,No,16,No,No,No,No internet service,One year,72.01,4165.17,Yes
+Male,1,Yes,Yes,69,Yes,No,No,No internet service,One year,57.61,6882.58,No
+Female,0,Yes,Yes,10,No,No phone service,No,No,Two year,105.16,847.6,Yes
+Female,0,Yes,No,4,Yes,Yes,No,No internet service,Month-to-month,77.57,564.31,Yes
+Female,1,No,No,57,Yes,No phone service,DSL,No internet service,Month-to-month,51.31,4478.93,Yes
+Male,1,No,No,56,Yes,No phone service,DSL,No internet service,One year,64.41,2874.18,No
+Female,1,No,Yes,13,Yes,No,Fiber optic,No internet service,One year,55.68,93.92,Yes
+Male,0,Yes,Yes,71,No,No,DSL,No internet service,Month-to-month,63.01,1690.49,No
+Male,1,Yes,Yes,0,Yes,No phone service,Fiber optic,Yes,Month-to-month,27.13,2008.04,No
+Female,1,No,Yes,15,No,Yes,No,No,One year,31.19,2632.13,No
+Male,1,No,No,25,No,No phone service,DSL,No,Month-to-month,82.37,7903.94,Yes
+Male,1,Yes,Yes,48,No,Yes,DSL,No,One year,88.41,3814.39,Yes
+Male,0,Yes,No,41,Yes,Yes,No,Yes,Month-to-month,83.66,6130.92,No
+Male,0,No,Yes,69,Yes,No phone service,No,Yes,Two year,96.31,214.65,No
+Female,1,No,No,65,Yes,No phone service,No,No,One year,114.35,7334.63,Yes
+Male,1,No,Yes,52,No,No phone service,Fiber optic,No,Month-to-month,106.06,2200.94,Yes
+Female,0,No,No,8,Yes,Yes,Fiber optic,No,One year,61.85,2815.9,Yes
+Male,1,Yes,No,68,Yes,No,DSL,No internet service,Month-to-month,41.75,455.05,Yes
+Male,1,No,Yes,39,No,Yes,No,Yes,Two year,51.19,3716.75,No
+Male,1,No,No,55,Yes,Yes,DSL,Yes,Two year,78.77,7680.56,No
+Male,0,Yes,No,4,No,Yes,No,No internet service,Two year,105.62,3439.67,Yes
+Male,0,No,No,55,No,No,No,Yes,One year,90.17,8182.02,No
+Male,0,No,Yes,71,No,Yes,No,No,Two year,74.3,7813.66,Yes
+Male,1,No,Yes,4,Yes,Yes,No,Yes,One year,80.19,604.55,Yes
+Male,1,Yes,Yes,68,Yes,Yes,No,No internet service,Two year,72.83,2782.18,Yes
+Male,1,Yes,Yes,51,No,No,Fiber optic,No,One year,117.16,8198.23,Yes
+Female,0,No,No,32,No,Yes,DSL,Yes,Two year,101.61,316.79,No
+Female,0,Yes,No,21,Yes,No,No,No,Month-to-month,98.13,6903.98,No
+Male,1,Yes,Yes,14,Yes,No,Fiber optic,Yes,Month-to-month,71.73,8162.53,No
+Male,1,No,No,64,No,No phone service,Fiber optic,No,One year,53.18,6945.9,Yes
+Male,1,Yes,Yes,70,No,No phone service,No,No internet service,Two year,21.95,6707.14,No
+Female,1,No,Yes,22,No,No phone service,No,No internet service,Two year,24.34,7598.03,Yes
+Female,1,Yes,No,5,Yes,No,Fiber optic,Yes,Month-to-month,23.02,6008.82,No
+Female,0,No,Yes,57,No,No phone service,No,Yes,Two year,118.05,3836.71,Yes
+Male,0,Yes,No,25,Yes,No phone service,Fiber optic,No,Two year,31.45,611.66,No
+Male,0,Yes,Yes,11,No,No phone service,No,No internet service,One year,34.21,7102.31,Yes
+Female,0,No,Yes,1,Yes,No,Fiber optic,No,Month-to-month,68.41,8152.02,No
+Male,1,No,Yes,31,No,Yes,No,No internet service,Two year,68.14,4628.7,No
+Male,0,No,No,49,Yes,No phone service,Fiber optic,No,Two year,112.0,4815.97,No
+Female,0,No,Yes,60,Yes,No phone service,DSL,No,One year,27.35,3659.42,No
+Male,1,Yes,No,10,Yes,No phone service,No,No,One year,115.72,7719.1,No
+Female,0,Yes,Yes,67,Yes,No phone service,No,Yes,One year,41.64,182.49,No
+Female,1,No,Yes,33,Yes,No,Fiber optic,No internet service,One year,117.02,5639.71,No
+Male,0,Yes,No,7,Yes,Yes,No,Yes,Two year,74.13,8171.35,Yes
+Female,1,No,No,7,No,Yes,DSL,Yes,Two year,85.2,973.84,Yes
+Male,1,Yes,No,14,No,No phone service,DSL,No,Two year,51.57,8634.52,Yes
+Female,1,No,No,4,No,Yes,Fiber optic,No internet service,One year,81.18,8710.72,No
+Male,0,Yes,No,18,Yes,No phone service,Fiber optic,Yes,Two year,91.08,8371.61,No
+Male,0,No,No,8,Yes,No phone service,No,No,Month-to-month,21.04,4189.79,Yes
+Male,1,Yes,Yes,56,No,Yes,Fiber optic,No internet service,Month-to-month,23.42,3477.58,No
+Male,0,Yes,No,53,Yes,Yes,DSL,No internet service,Two year,118.65,6368.23,Yes
+Female,1,No,Yes,28,Yes,No,DSL,Yes,One year,65.76,2902.28,No
+Female,1,Yes,Yes,18,No,No phone service,No,No,Month-to-month,113.58,661.68,Yes
+Male,1,Yes,Yes,45,No,Yes,DSL,Yes,Two year,92.99,8117.73,No
+Male,1,No,No,61,No,No,Fiber optic,No internet service,Month-to-month,57.3,5731.96,No
+Male,1,No,Yes,59,No,Yes,No,Yes,Month-to-month,35.08,1904.03,No
+Female,1,No,Yes,4,No,Yes,No,No,Month-to-month,117.82,214.76,No
+Female,1,No,Yes,32,No,No phone service,No,No internet service,Month-to-month,78.45,6525.47,No
+Male,0,Yes,No,54,No,No,Fiber optic,No,Two year,39.24,7682.56,No
+Female,0,No,Yes,18,Yes,No phone service,No,No,Month-to-month,88.17,3680.55,Yes
+Male,0,No,No,16,Yes,Yes,No,No internet service,Two year,29.2,774.04,Yes
+Female,0,No,Yes,41,Yes,No,DSL,No,Month-to-month,106.8,5855.16,Yes
+Male,0,Yes,No,21,Yes,No phone service,DSL,No,Month-to-month,29.01,2707.52,No
+Male,0,Yes,No,38,No,No,No,No,Month-to-month,43.62,1338.32,Yes
+Male,1,Yes,Yes,26,Yes,Yes,Fiber optic,No internet service,Two year,29.14,4618.05,No
+Female,0,Yes,Yes,45,Yes,No,Fiber optic,No,Month-to-month,30.38,4362.5,Yes
+Male,1,No,No,27,Yes,Yes,Fiber optic,Yes,Month-to-month,72.38,4675.1,Yes
+Female,0,Yes,No,51,Yes,No phone service,Fiber optic,Yes,One year,88.7,7424.19,Yes
+Female,1,Yes,No,64,No,Yes,DSL,No,Month-to-month,98.85,4386.69,No
+Male,0,No,Yes,38,Yes,Yes,Fiber optic,Yes,One year,89.51,8109.84,No
+Male,0,No,Yes,17,No,No,Fiber optic,Yes,Two year,56.35,7584.21,Yes
+Male,0,Yes,Yes,21,No,No,No,No internet service,Month-to-month,75.73,5877.49,No
+Female,0,No,Yes,67,Yes,No phone service,Fiber optic,No,Month-to-month,112.77,558.82,Yes
+Female,0,Yes,Yes,10,No,No,Fiber optic,No internet service,One year,58.76,7791.25,No
+Female,1,Yes,No,63,Yes,No phone service,Fiber optic,No,One year,45.24,8154.87,Yes
+Female,1,Yes,No,70,No,Yes,Fiber optic,Yes,Month-to-month,71.93,3406.67,No
+Female,0,No,No,56,No,Yes,DSL,No internet service,Two year,49.73,4759.06,Yes
+Female,1,No,No,34,No,No,No,No internet service,One year,46.18,2565.14,No
+Female,1,Yes,No,36,Yes,Yes,DSL,Yes,Month-to-month,97.88,181.71,No
+Male,1,Yes,No,49,Yes,Yes,No,Yes,One year,109.08,4341.09,Yes
+Male,1,No,Yes,29,Yes,No phone service,No,No,Two year,70.23,1207.76,No
+Male,0,Yes,No,16,Yes,No,No,No,One year,97.98,1690.76,No
+Female,0,No,Yes,32,No,No phone service,No,Yes,Month-to-month,38.71,4352.36,No
+Male,1,No,Yes,15,Yes,Yes,DSL,Yes,One year,74.76,7809.99,No
+Female,0,No,Yes,14,No,Yes,No,No internet service,Two year,83.62,7609.46,No
+Female,0,No,Yes,12,No,Yes,Fiber optic,No internet service,Month-to-month,69.07,8687.36,No
+Female,0,Yes,No,2,No,No,Fiber optic,No,Month-to-month,31.69,4369.99,No
+Female,0,No,No,23,No,Yes,No,No internet service,Month-to-month,93.41,4990.48,No
+Male,1,No,Yes,22,No,Yes,Fiber optic,Yes,Month-to-month,103.91,7407.94,No
+Female,1,No,Yes,58,No,No phone service,Fiber optic,Yes,Two year,83.52,6312.08,Yes
+Male,1,Yes,No,54,No,No,No,Yes,Month-to-month,36.92,1686.26,No
+Female,0,Yes,No,64,No,Yes,No,Yes,Two year,27.46,3613.66,No
+Male,1,Yes,No,31,No,No phone service,No,No,Two year,50.16,8365.98,Yes
+Female,1,Yes,Yes,59,No,Yes,DSL,Yes,One year,23.7,1357.84,No
+Female,1,Yes,No,29,No,No phone service,No,Yes,One year,103.92,1923.74,No
+Male,1,No,No,65,Yes,Yes,No,Yes,Month-to-month,90.31,3635.91,No
+Male,0,Yes,Yes,17,No,No,DSL,Yes,Month-to-month,76.37,8461.87,No
+Male,1,Yes,Yes,58,Yes,No,Fiber optic,No,Two year,108.96,1068.67,Yes
+Female,0,No,No,52,Yes,No phone service,DSL,No,One year,31.01,6072.83,No
+Female,0,Yes,Yes,63,No,Yes,Fiber optic,No internet service,Month-to-month,91.45,1232.5,No
+Female,1,Yes,Yes,29,No,No,DSL,No,Month-to-month,34.66,4744.28,Yes
+Male,0,No,Yes,17,No,Yes,No,No,Two year,26.09,4852.24,Yes
+Male,0,Yes,Yes,4,No,No,DSL,No,One year,33.29,431.5,Yes
+Male,1,Yes,Yes,68,Yes,No phone service,No,No internet service,Month-to-month,115.09,8589.35,No
+Female,1,No,No,7,Yes,No,Fiber optic,Yes,Month-to-month,64.04,7269.27,Yes
+Female,1,Yes,No,8,No,Yes,No,No internet service,Month-to-month,24.9,2760.55,No
+Male,1,Yes,No,31,Yes,Yes,DSL,Yes,Month-to-month,78.36,1219.09,Yes
+Female,1,No,No,13,No,Yes,DSL,No,Month-to-month,39.97,3143.36,Yes
+Female,0,Yes,No,12,No,No phone service,Fiber optic,Yes,Month-to-month,20.68,8053.78,No
+Female,1,Yes,Yes,17,No,No phone service,No,No internet service,One year,95.84,1237.52,Yes
+Male,0,Yes,No,67,Yes,Yes,Fiber optic,Yes,Two year,35.49,3176.39,No
+Male,0,Yes,No,21,Yes,Yes,No,Yes,Two year,114.25,4474.02,Yes
+Male,1,Yes,Yes,19,Yes,No,No,No,Two year,79.28,344.31,Yes
+Female,0,No,No,14,No,No,Fiber optic,Yes,Month-to-month,28.7,2448.9,No
+Male,0,Yes,No,6,Yes,No,Fiber optic,Yes,Two year,41.78,5380.92,No
+Male,1,No,No,29,No,Yes,No,No,One year,81.08,2949.48,Yes
+Female,1,Yes,No,4,No,No,Fiber optic,No internet service,Month-to-month,53.81,7841.2,No
+Female,0,Yes,Yes,0,Yes,Yes,No,No,One year,73.21,8434.05,Yes
+Female,0,No,Yes,59,No,No phone service,Fiber optic,Yes,Month-to-month,99.95,4001.81,No
+Female,0,No,Yes,30,No,No,Fiber optic,No,Month-to-month,99.26,4811.58,Yes
+Male,0,No,Yes,19,No,Yes,Fiber optic,No,Two year,89.8,5695.73,No
+Female,0,Yes,No,63,No,Yes,DSL,Yes,One year,108.61,5997.59,Yes
+Female,1,Yes,No,63,Yes,No phone service,Fiber optic,No internet service,Two year,39.94,616.16,Yes
+Female,1,No,No,28,No,No phone service,DSL,No,Month-to-month,37.72,530.43,Yes
+Female,1,Yes,No,9,No,No phone service,No,No internet service,One year,99.93,7797.01,Yes
+Female,1,Yes,No,28,No,No phone service,No,No,One year,52.09,2017.85,No
+Female,0,Yes,No,30,Yes,No,Fiber optic,Yes,Month-to-month,71.22,5277.74,No
+Male,1,Yes,No,29,No,No phone service,DSL,Yes,Two year,94.4,5640.81,No
+Male,1,Yes,Yes,24,No,Yes,No,No,Month-to-month,59.59,1521.96,Yes
+Male,0,No,Yes,57,Yes,Yes,DSL,No,One year,33.02,6866.29,Yes
+Male,0,Yes,Yes,56,No,Yes,DSL,No,One year,87.95,7800.21,Yes
+Female,0,No,Yes,62,Yes,Yes,No,Yes,One year,101.72,2604.13,No
+Female,1,Yes,Yes,36,No,Yes,DSL,No,Month-to-month,21.28,7906.67,No
+Female,1,Yes,Yes,57,Yes,No phone service,DSL,Yes,One year,76.26,775.28,No
+Male,0,Yes,Yes,27,No,Yes,No,No,One year,66.94,7214.15,No
+Female,0,Yes,No,26,Yes,No phone service,Fiber optic,Yes,Two year,45.96,5778.99,Yes
+Female,1,No,No,69,Yes,No phone service,Fiber optic,No,Two year,36.1,5268.84,Yes
+Female,0,Yes,No,36,No,No phone service,DSL,No internet service,One year,38.8,2109.69,Yes
+Female,0,Yes,No,5,No,No phone service,Fiber optic,No internet service,Two year,92.5,3288.48,Yes
+Male,0,No,Yes,61,Yes,No,No,Yes,Month-to-month,73.62,8197.22,No
+Female,1,Yes,Yes,32,No,No,No,No,Two year,118.12,4218.38,Yes
+Female,1,Yes,Yes,39,No,No,No,No internet service,Two year,44.32,5369.7,No
+Female,1,Yes,Yes,40,Yes,No,DSL,No,Two year,115.69,8425.87,No
+Male,0,No,No,41,Yes,No,No,No,Two year,71.51,4225.07,Yes
+Female,0,Yes,No,8,No,Yes,DSL,No,Month-to-month,34.6,3525.01,No
+Female,1,No,No,17,No,No,DSL,No internet service,Two year,34.82,8044.16,No
+Female,0,No,No,14,No,Yes,No,Yes,One year,80.86,8202.45,Yes
+Female,0,Yes,Yes,3,No,Yes,No,No internet service,Two year,103.14,3224.01,No
+Female,1,Yes,Yes,33,Yes,No phone service,DSL,Yes,Two year,94.77,5348.31,Yes
+Female,0,Yes,No,61,Yes,No phone service,No,No internet service,One year,85.56,8675.36,No
+Female,0,Yes,No,37,Yes,No phone service,Fiber optic,No,Month-to-month,37.21,546.46,No
+Male,0,No,No,70,Yes,No,DSL,No,One year,30.83,406.23,No
+Male,0,Yes,No,22,No,Yes,DSL,No,One year,20.02,4673.4,No
+Female,1,Yes,No,19,Yes,No,No,No internet service,One year,30.18,2656.6,No
+Female,0,Yes,No,55,Yes,No phone service,No,No internet service,One year,96.64,5257.56,Yes
+Male,1,No,Yes,52,No,No phone service,DSL,Yes,Two year,109.52,6532.44,No
+Male,1,Yes,Yes,1,No,Yes,DSL,No internet service,Two year,44.04,668.22,No
+Male,1,Yes,No,20,Yes,Yes,DSL,Yes,Two year,99.49,7947.19,No
+Male,1,Yes,Yes,41,No,No phone service,No,No internet service,Two year,39.88,2528.14,No
+Female,0,Yes,Yes,56,Yes,No,DSL,No,Month-to-month,44.93,3463.06,Yes
+Female,0,Yes,Yes,48,No,No,Fiber optic,No internet service,Two year,42.42,3066.48,No
+Female,1,Yes,No,9,No,Yes,Fiber optic,No,Two year,25.17,7566.52,No
+Female,1,Yes,Yes,71,Yes,No phone service,No,No internet service,Month-to-month,39.41,1577.34,No
+Female,1,No,Yes,60,No,No,DSL,Yes,One year,57.35,306.63,Yes
+Male,1,No,Yes,20,Yes,Yes,DSL,No internet service,Two year,60.55,8747.62,No
+Male,0,Yes,Yes,59,Yes,Yes,Fiber optic,No,Two year,50.95,8826.66,No
+Male,1,Yes,Yes,12,Yes,Yes,DSL,No internet service,One year,71.47,2356.35,No
+Male,1,Yes,Yes,47,No,No,No,Yes,Two year,57.8,133.71,Yes
+Male,0,No,Yes,39,Yes,Yes,No,Yes,One year,117.04,5830.96,No
+Female,1,Yes,No,62,Yes,No,No,Yes,One year,100.74,5853.75,No
+Male,0,Yes,Yes,8,Yes,Yes,DSL,Yes,One year,113.1,8466.19,No
+Male,0,No,Yes,56,Yes,No,DSL,No internet service,Two year,75.74,2721.31,Yes
+Female,0,No,Yes,50,Yes,No phone service,Fiber optic,Yes,One year,87.83,1746.06,No
+Female,1,Yes,No,39,Yes,No,Fiber optic,No internet service,Two year,36.67,5566.62,No
+Female,0,Yes,Yes,63,No,No phone service,No,No internet service,Month-to-month,95.28,5094.86,No
+Female,0,No,No,69,Yes,Yes,DSL,No internet service,One year,43.6,6473.74,No
+Female,1,No,Yes,63,No,No,DSL,Yes,Two year,34.58,7971.89,Yes
+Male,1,No,No,24,No,Yes,No,Yes,One year,24.19,5059.72,Yes
+Female,1,No,No,27,Yes,No phone service,No,No internet service,Two year,67.22,1393.17,Yes
+Female,1,Yes,No,9,No,Yes,Fiber optic,No internet service,Two year,48.68,5403.25,No
+Male,0,Yes,Yes,27,No,Yes,Fiber optic,No internet service,Month-to-month,118.67,3398.21,Yes
+Male,1,No,No,35,Yes,Yes,No,No,One year,44.98,4101.98,No
+Female,0,Yes,Yes,10,No,No phone service,DSL,No,Two year,106.65,8637.39,No
+Female,0,Yes,Yes,20,Yes,No phone service,Fiber optic,Yes,Month-to-month,51.64,5016.78,No
+Male,1,No,Yes,25,No,No,No,No,Two year,94.91,1389.34,Yes
+Female,1,No,No,17,Yes,No,DSL,No internet service,Two year,85.98,4016.27,Yes
+Female,1,No,Yes,67,No,No,No,No internet service,Month-to-month,76.18,2094.45,No
+Female,1,Yes,No,40,Yes,No,DSL,Yes,One year,61.68,1262.57,No
+Female,0,Yes,Yes,14,Yes,Yes,Fiber optic,Yes,Month-to-month,87.11,6424.5,Yes
+Female,1,Yes,Yes,22,No,No phone service,DSL,No,One year,60.73,5675.69,Yes
+Male,0,No,Yes,40,Yes,No phone service,DSL,No internet service,Two year,74.81,4505.21,No
+Male,0,Yes,Yes,5,Yes,Yes,No,Yes,Two year,78.98,3837.98,Yes
+Female,1,No,Yes,70,No,No,DSL,Yes,Month-to-month,46.74,2933.85,No
+Female,1,Yes,Yes,59,Yes,No phone service,Fiber optic,No,Month-to-month,53.97,837.68,Yes
+Male,1,No,Yes,51,Yes,Yes,No,Yes,Month-to-month,21.81,2728.46,Yes
+Male,0,Yes,No,8,No,Yes,No,No,Two year,105.22,7553.63,Yes
+Male,0,Yes,Yes,29,No,No,No,No internet service,One year,95.6,7063.89,No
+Female,0,No,Yes,43,No,No,No,No,Month-to-month,38.35,8752.24,No
+Male,1,No,No,61,No,No phone service,No,Yes,One year,56.2,5921.8,No
+Female,1,Yes,No,42,No,No phone service,No,No,Month-to-month,62.11,5005.08,No
+Female,1,Yes,No,27,No,No,No,No,Month-to-month,53.44,2699.6,Yes
+Female,1,No,Yes,7,Yes,No phone service,Fiber optic,No internet service,Month-to-month,99.82,737.9,No
+Female,1,Yes,No,50,No,No,Fiber optic,No,Month-to-month,92.54,5581.26,Yes
+Female,1,Yes,Yes,29,No,Yes,No,Yes,Two year,96.72,4419.05,No
+Male,1,No,No,10,No,Yes,DSL,Yes,Two year,110.41,6843.72,No
+Male,0,No,Yes,19,Yes,Yes,No,No internet service,Month-to-month,79.52,3736.13,No
+Male,0,Yes,No,30,Yes,No phone service,No,No internet service,Two year,81.45,8870.68,Yes
+Male,0,No,Yes,33,Yes,No,No,No internet service,Two year,92.19,3608.63,Yes
+Female,0,Yes,Yes,11,No,Yes,DSL,Yes,Two year,88.12,3030.99,Yes
+Male,1,Yes,Yes,47,Yes,Yes,Fiber optic,No,Two year,106.98,7845.33,No
+Male,1,No,No,27,Yes,No phone service,DSL,Yes,One year,97.02,3589.78,No
+Male,1,Yes,No,66,Yes,No phone service,DSL,Yes,One year,32.05,7844.53,Yes
+Male,0,Yes,No,62,Yes,Yes,DSL,No internet service,Two year,112.84,294.82,Yes
+Male,1,Yes,No,47,No,No phone service,DSL,No internet service,One year,88.31,6248.71,Yes
+Male,0,Yes,No,41,No,No phone service,No,No,Month-to-month,32.71,693.08,Yes
+Female,0,Yes,Yes,51,No,No phone service,Fiber optic,No,One year,97.2,1376.68,No
+Female,0,No,No,4,No,No phone service,DSL,No,Month-to-month,55.84,6315.67,No
+Male,1,No,Yes,11,No,No,Fiber optic,No,One year,100.6,2643.02,No
+Female,1,Yes,Yes,58,No,No phone service,No,Yes,One year,115.54,1933.38,No
+Female,0,Yes,Yes,64,Yes,No phone service,No,No,Month-to-month,45.52,7223.66,No
+Female,0,No,Yes,51,No,No,Fiber optic,Yes,Month-to-month,105.74,8518.91,Yes
+Female,1,Yes,No,42,No,No phone service,No,Yes,Two year,97.36,2129.81,Yes
+Female,0,No,No,62,No,No phone service,Fiber optic,No,One year,87.12,2888.9,No
+Male,1,No,No,49,No,Yes,DSL,No,Month-to-month,58.49,6440.96,Yes
+Female,0,No,No,38,No,Yes,No,Yes,Two year,30.99,7346.87,No
+Female,1,Yes,No,41,Yes,Yes,No,No internet service,Month-to-month,68.39,8992.5,No
+Male,0,Yes,No,16,Yes,No,Fiber optic,No,Two year,30.57,2496.67,Yes
+Female,1,Yes,Yes,42,Yes,No phone service,No,No internet service,Two year,70.01,5031.74,Yes
+Female,0,Yes,No,48,Yes,No,DSL,Yes,Month-to-month,102.03,1249.47,No
+Male,1,No,Yes,4,Yes,No,No,No internet service,Month-to-month,119.76,3011.02,No
+Female,0,Yes,Yes,0,No,No phone service,No,Yes,One year,39.8,452.47,Yes
+Male,1,Yes,Yes,66,Yes,No phone service,No,No internet service,One year,40.79,1937.0,Yes
+Female,0,Yes,Yes,23,Yes,Yes,Fiber optic,No internet service,Two year,101.09,4583.58,No
+Female,0,No,No,28,No,No phone service,DSL,No internet service,Month-to-month,66.91,1515.64,Yes
+Male,0,Yes,No,14,Yes,No,DSL,Yes,One year,111.58,8009.98,No
+Female,0,No,Yes,3,Yes,Yes,No,Yes,Two year,96.9,6407.27,No
+Male,0,Yes,No,43,No,No,No,Yes,One year,93.64,298.24,Yes
+Female,0,Yes,Yes,64,No,No phone service,Fiber optic,No,Two year,30.2,7896.48,Yes
+Female,1,Yes,Yes,30,No,Yes,DSL,Yes,One year,23.59,8797.02,No
+Female,1,Yes,Yes,19,Yes,No phone service,No,No,Month-to-month,51.68,4541.66,Yes
+Female,0,Yes,Yes,9,Yes,Yes,DSL,Yes,Two year,41.73,2865.77,Yes
+Male,1,No,No,10,Yes,Yes,No,No,Two year,91.23,2408.01,Yes
+Female,0,Yes,Yes,27,No,Yes,No,No internet service,One year,65.07,832.4,Yes
+Female,0,No,No,37,Yes,No phone service,Fiber optic,No internet service,One year,72.31,4449.9,Yes
+Male,1,Yes,Yes,23,Yes,Yes,DSL,Yes,One year,101.37,498.75,No
+Male,0,Yes,No,38,Yes,Yes,DSL,No,Month-to-month,67.85,4559.34,Yes
+Male,0,No,No,50,Yes,No phone service,No,No internet service,One year,74.49,2310.31,Yes
+Female,1,Yes,No,49,No,No,No,No internet service,One year,104.23,4314.07,Yes
+Male,0,No,Yes,6,No,No phone service,Fiber optic,No,Month-to-month,63.13,3794.54,No
+Male,0,No,Yes,67,No,No phone service,No,Yes,One year,28.31,2780.77,No
+Male,1,Yes,No,52,No,Yes,DSL,No internet service,Month-to-month,72.17,4065.31,No
+Male,1,Yes,No,36,Yes,No phone service,Fiber optic,Yes,Month-to-month,77.94,4292.6,Yes
+Female,0,Yes,Yes,53,No,No phone service,DSL,Yes,One year,71.18,7511.54,No
+Female,0,Yes,No,54,Yes,No phone service,Fiber optic,No,Month-to-month,45.8,6008.76,Yes
+Female,0,Yes,No,30,No,Yes,DSL,No,One year,42.37,3926.75,Yes
+Male,0,No,No,64,No,No phone service,No,No internet service,Month-to-month,56.98,8151.92,No
+Male,0,No,Yes,58,Yes,Yes,DSL,No,Two year,36.62,6813.88,No
+Male,0,Yes,Yes,46,Yes,No phone service,DSL,No internet service,One year,86.6,727.67,No
+Female,0,Yes,Yes,48,No,Yes,Fiber optic,No internet service,Two year,81.47,1426.03,No
+Male,1,No,Yes,17,Yes,Yes,DSL,No internet service,Two year,83.24,780.93,Yes
+Male,0,No,Yes,2,No,No phone service,No,Yes,Two year,42.48,2903.83,No
+Female,0,No,Yes,17,Yes,No,Fiber optic,Yes,Two year,44.65,3949.04,Yes
+Female,1,Yes,No,57,No,No phone service,Fiber optic,No,One year,98.74,4563.0,No
+Female,0,Yes,No,70,No,No,DSL,No,Month-to-month,89.01,7670.14,No
+Female,0,No,No,24,No,Yes,Fiber optic,No internet service,One year,107.52,210.71,No
+Female,1,No,No,17,No,No,No,No internet service,One year,60.35,3883.18,Yes
+Male,0,Yes,No,51,Yes,No,DSL,Yes,Month-to-month,74.73,3728.44,No
+Male,1,No,No,42,Yes,Yes,No,Yes,Two year,93.88,8529.91,Yes
+Male,1,Yes,Yes,66,No,No,DSL,No internet service,Month-to-month,117.42,2207.28,Yes
+Female,1,No,No,6,No,No phone service,DSL,No internet service,Two year,118.96,1145.53,Yes
+Female,1,Yes,No,43,No,No,Fiber optic,No,One year,119.92,1323.23,Yes
+Female,1,No,Yes,43,Yes,Yes,Fiber optic,No internet service,Month-to-month,109.05,4705.28,Yes
+Female,1,No,Yes,50,No,No,Fiber optic,No internet service,Month-to-month,83.97,3548.59,Yes
+Male,1,No,No,20,Yes,Yes,DSL,No internet service,Two year,20.7,6799.57,Yes
+Male,0,No,No,36,Yes,Yes,Fiber optic,Yes,Month-to-month,89.95,2942.48,Yes
+Male,1,Yes,No,27,No,No phone service,No,Yes,One year,43.86,1195.26,Yes
+Male,1,No,Yes,31,Yes,Yes,Fiber optic,No,Month-to-month,25.72,3512.54,No
+Male,0,Yes,Yes,56,No,No,No,No,Month-to-month,89.72,7953.17,No
+Male,0,No,Yes,40,No,No phone service,Fiber optic,No,One year,95.6,3679.46,No
+Male,1,No,Yes,53,Yes,No phone service,DSL,No internet service,Two year,85.94,7510.97,Yes
+Male,1,Yes,No,26,Yes,No,Fiber optic,No internet service,Month-to-month,56.52,3375.19,Yes
+Female,1,No,No,39,No,No,No,Yes,Two year,71.1,2568.4,No
+Male,1,No,No,40,Yes,No phone service,No,No internet service,Month-to-month,113.49,6985.02,No
+Male,0,Yes,Yes,69,Yes,Yes,Fiber optic,No internet service,One year,92.96,1922.65,Yes
+Female,0,No,Yes,23,Yes,No phone service,No,Yes,Two year,70.47,2124.88,No
+Female,1,No,No,17,No,No phone service,DSL,No,Month-to-month,79.34,495.82,Yes
+Male,0,No,No,55,No,No phone service,Fiber optic,No internet service,Two year,112.77,1731.22,No
+Male,0,Yes,No,14,Yes,Yes,No,Yes,Month-to-month,59.38,3440.4,Yes
+Female,0,No,Yes,71,No,No,Fiber optic,Yes,One year,30.18,3626.18,Yes
+Female,0,Yes,No,34,No,No,Fiber optic,No,One year,52.58,3814.62,Yes
+Female,1,Yes,Yes,26,Yes,No,Fiber optic,Yes,Month-to-month,61.52,4343.25,Yes
+Male,0,Yes,No,2,Yes,Yes,Fiber optic,No,Month-to-month,47.3,5168.6,No
+Female,0,Yes,No,20,Yes,Yes,Fiber optic,No,Two year,72.9,1745.39,Yes
+Male,1,No,Yes,38,No,No,DSL,No,Month-to-month,50.49,5544.8,Yes
+Female,0,No,Yes,31,No,No,Fiber optic,No,Two year,30.32,3062.16,No
+Male,1,Yes,Yes,49,Yes,No,DSL,No,Month-to-month,38.81,6619.4,No
+Female,1,No,No,8,No,No,Fiber optic,Yes,One year,111.82,5036.98,No
+Male,0,No,Yes,49,No,Yes,No,No internet service,Two year,82.96,5010.7,Yes
+Female,0,No,No,0,No,No,Fiber optic,No,Two year,51.43,6185.11,Yes
+Female,1,No,Yes,3,Yes,No phone service,Fiber optic,No,One year,56.69,3030.52,No
+Male,0,No,No,3,No,No,No,No internet service,Two year,69.34,3891.63,No
+Male,1,No,Yes,33,No,Yes,DSL,No internet service,One year,87.31,5266.94,No
+Male,1,Yes,Yes,26,Yes,No phone service,DSL,No,One year,78.22,3822.92,Yes
+Female,0,No,No,14,No,No phone service,DSL,No internet service,One year,113.27,4026.1,No
+Female,1,Yes,Yes,31,No,No phone service,DSL,No,Month-to-month,82.57,2488.76,No
+Female,1,No,No,40,Yes,Yes,No,Yes,One year,111.08,2622.1,Yes
+Female,0,Yes,No,70,No,No,DSL,No internet service,Two year,20.54,6305.67,Yes
+Female,0,No,No,60,Yes,Yes,DSL,No internet service,Month-to-month,109.06,88.32,Yes
+Male,1,Yes,Yes,62,No,Yes,DSL,Yes,One year,92.15,902.85,No
+Male,0,Yes,No,60,No,No phone service,DSL,No internet service,One year,37.22,8541.85,Yes
+Female,1,No,Yes,13,Yes,No phone service,DSL,Yes,One year,46.3,1723.81,Yes
+Female,0,No,Yes,22,Yes,Yes,Fiber optic,No,Two year,74.28,3792.18,No
+Male,1,Yes,No,64,Yes,No phone service,Fiber optic,No internet service,Month-to-month,32.49,7654.68,Yes
+Female,0,No,Yes,31,No,Yes,DSL,No internet service,Month-to-month,98.54,50.92,No
+Male,0,No,No,40,No,No phone service,No,Yes,Month-to-month,99.12,8330.35,No
+Male,0,No,No,25,Yes,No,No,No,Two year,50.09,528.72,Yes
+Male,0,No,No,47,Yes,No,Fiber optic,No,One year,26.98,1579.28,No
+Male,0,Yes,No,15,Yes,No,No,Yes,Month-to-month,118.88,310.48,No
+Male,1,No,No,30,No,No phone service,Fiber optic,No internet service,One year,45.07,4699.7,No
+Female,1,No,No,65,No,No phone service,DSL,No internet service,Two year,26.76,8490.69,Yes
+Male,0,No,Yes,31,Yes,No,DSL,Yes,Month-to-month,53.0,7559.38,No
+Female,1,No,Yes,9,No,Yes,No,Yes,Two year,116.9,5775.75,No
+Male,0,Yes,Yes,24,No,Yes,No,Yes,Month-to-month,99.29,1710.12,Yes
+Female,1,No,Yes,44,No,No,No,No internet service,Month-to-month,68.03,7832.89,Yes
+Male,1,No,Yes,23,Yes,No phone service,DSL,Yes,One year,50.53,6805.24,No
+Female,1,No,No,2,No,Yes,DSL,No,Two year,62.33,2438.29,No
+Female,0,Yes,Yes,61,Yes,Yes,No,Yes,Month-to-month,21.74,7255.55,Yes
+Male,0,No,No,66,Yes,Yes,No,No,Month-to-month,91.84,7900.5,No
+Male,1,Yes,Yes,54,Yes,No phone service,No,No,Two year,29.96,6299.12,Yes
+Male,1,No,Yes,9,Yes,Yes,No,Yes,One year,71.9,948.44,Yes
+Female,1,No,No,54,Yes,Yes,Fiber optic,No,Two year,76.58,8859.01,Yes
+Male,1,Yes,Yes,21,Yes,No,No,No internet service,Month-to-month,20.17,730.21,No
+Male,0,Yes,Yes,13,No,No phone service,No,Yes,Two year,117.99,5907.54,Yes
+Female,0,No,Yes,7,Yes,No,Fiber optic,No internet service,One year,50.21,1039.2,Yes
+Male,1,No,No,14,No,Yes,Fiber optic,No internet service,One year,27.72,8153.45,Yes
+Male,0,No,Yes,14,No,No phone service,Fiber optic,No,One year,105.44,3182.3,No
+Female,1,No,No,51,No,No phone service,Fiber optic,No internet service,One year,35.2,4627.95,No
+Male,0,No,Yes,69,No,No,No,No internet service,One year,22.5,1649.92,Yes
+Female,1,Yes,No,53,Yes,No,DSL,Yes,One year,69.47,4941.73,Yes
+Male,0,No,Yes,41,No,No phone service,DSL,Yes,One year,32.99,8452.62,No
+Female,1,Yes,No,18,Yes,No phone service,DSL,No internet service,Month-to-month,118.24,8119.62,No
+Female,0,Yes,No,39,Yes,No,DSL,No,Two year,21.04,621.87,No
+Male,1,No,Yes,68,No,Yes,DSL,No,One year,25.12,3435.41,Yes
+Female,0,No,Yes,26,Yes,No phone service,DSL,Yes,Two year,103.33,2443.51,No
+Male,1,Yes,Yes,42,No,Yes,Fiber optic,Yes,Two year,43.98,4358.19,Yes
+Female,1,Yes,No,51,Yes,No,Fiber optic,Yes,Month-to-month,111.16,7511.88,Yes
+Female,0,No,Yes,45,Yes,No phone service,DSL,No,Two year,51.11,6662.72,No
+Male,0,Yes,No,13,Yes,No,No,Yes,Two year,26.98,3128.6,Yes
+Male,0,Yes,Yes,63,No,No phone service,No,No internet service,One year,21.06,3474.86,Yes
+Male,1,Yes,Yes,60,No,No phone service,DSL,No,One year,48.26,5905.58,No
+Female,1,No,No,57,Yes,No,No,No internet service,Two year,67.37,1788.32,Yes
+Male,1,No,Yes,48,Yes,No,Fiber optic,Yes,One year,20.1,969.42,Yes
+Female,0,Yes,Yes,28,No,Yes,Fiber optic,No,Month-to-month,78.11,2221.17,No
+Female,1,Yes,Yes,25,Yes,No,No,Yes,Two year,53.37,1160.09,Yes
+Male,0,No,No,26,No,No,DSL,No,Two year,59.02,3200.26,No
+Female,1,No,No,66,No,Yes,Fiber optic,Yes,Month-to-month,46.14,8441.21,No
+Male,1,Yes,No,66,No,No,No,No,Month-to-month,72.9,1126.68,Yes
+Female,1,No,No,34,No,Yes,No,No,Month-to-month,43.01,7373.98,Yes
+Male,0,No,Yes,59,Yes,Yes,Fiber optic,No,Month-to-month,33.48,4835.1,No
+Female,1,No,Yes,60,No,No,Fiber optic,No internet service,Two year,109.06,5714.48,No
+Female,1,No,Yes,69,No,Yes,DSL,Yes,One year,59.06,1572.24,Yes
+Male,0,No,No,2,No,Yes,No,Yes,One year,27.69,1404.79,Yes
+Female,1,Yes,Yes,32,No,Yes,DSL,No,One year,43.03,1506.56,Yes
+Female,0,Yes,No,41,Yes,No,Fiber optic,No internet service,One year,50.99,6020.21,No
+Female,1,No,Yes,12,No,No,No,No,Month-to-month,96.96,6742.7,Yes
+Female,1,No,No,28,Yes,Yes,Fiber optic,Yes,One year,22.23,8286.19,Yes
+Female,0,No,No,8,No,No,Fiber optic,Yes,One year,67.82,3613.82,Yes
+Male,1,No,Yes,31,No,No phone service,Fiber optic,No,Two year,60.77,4184.63,Yes
+Male,0,Yes,No,21,Yes,Yes,DSL,No,Two year,116.84,4252.88,No
+Female,0,Yes,No,57,No,No phone service,Fiber optic,No,One year,38.01,2465.59,No
+Male,1,No,Yes,56,Yes,No,DSL,Yes,Month-to-month,82.79,2987.68,Yes
+Male,1,No,No,9,No,No phone service,Fiber optic,No,One year,40.22,7629.04,Yes
+Female,1,No,No,24,Yes,No,Fiber optic,No,Month-to-month,74.84,3126.31,No
+Male,1,No,Yes,61,Yes,No,No,Yes,Two year,75.51,7828.41,Yes
+Female,1,No,No,62,Yes,Yes,Fiber optic,No,Month-to-month,27.53,2782.15,No
+Male,0,Yes,No,2,Yes,No phone service,No,No internet service,One year,65.65,3091.95,No
+Female,0,Yes,No,46,Yes,Yes,No,Yes,Two year,66.12,5064.51,No
+Female,0,No,Yes,54,No,No phone service,DSL,No,One year,51.91,972.99,No
+Female,0,No,Yes,25,Yes,No,No,No,One year,47.72,8302.46,Yes
+Female,0,Yes,Yes,12,Yes,No,No,Yes,Month-to-month,42.43,7392.58,No
+Male,1,Yes,Yes,6,No,Yes,Fiber optic,Yes,One year,20.59,6051.01,Yes
+Male,0,Yes,No,33,Yes,No phone service,Fiber optic,No internet service,One year,20.18,8893.72,Yes
+Female,0,No,Yes,21,No,No phone service,DSL,No,Two year,78.98,193.19,No
+Male,1,Yes,Yes,22,No,No,No,No,Month-to-month,49.15,3728.99,No
+Female,1,No,Yes,47,Yes,Yes,No,No,Month-to-month,36.79,7732.17,No
+Female,1,No,Yes,13,Yes,No,DSL,Yes,Two year,88.47,3925.5,Yes
+Male,1,Yes,No,51,Yes,No,Fiber optic,Yes,Two year,72.89,96.91,No
+Female,0,No,No,38,Yes,Yes,No,Yes,Month-to-month,111.5,1461.9,No
+Female,1,Yes,Yes,40,Yes,No phone service,DSL,No,Two year,103.1,3934.95,No
+Male,0,No,No,35,Yes,No phone service,Fiber optic,No,Month-to-month,92.67,6028.13,Yes
+Female,1,Yes,Yes,5,No,No,DSL,Yes,Two year,32.66,1505.76,No
+Female,1,Yes,Yes,22,No,No phone service,DSL,No internet service,Month-to-month,86.61,4059.99,No
+Male,0,Yes,No,9,No,Yes,No,No,Month-to-month,89.39,164.46,No
+Male,0,Yes,No,59,No,No phone service,Fiber optic,No internet service,Two year,96.33,4323.63,Yes
+Female,1,No,No,29,Yes,No phone service,No,Yes,One year,46.31,8068.52,No
+Male,0,Yes,No,69,Yes,No,No,No,One year,84.03,5391.07,Yes
+Male,1,Yes,No,4,No,No phone service,Fiber optic,No internet service,Two year,81.83,3993.87,Yes
+Male,1,Yes,No,56,Yes,Yes,Fiber optic,No,Month-to-month,58.53,1502.22,Yes
+Male,0,Yes,Yes,42,Yes,No,Fiber optic,No internet service,Two year,86.35,1861.65,Yes
+Male,0,No,No,51,No,Yes,No,No,One year,28.67,734.76,Yes
+Male,0,Yes,Yes,5,No,No phone service,Fiber optic,No internet service,Month-to-month,84.35,6694.58,No
+Female,1,No,Yes,1,No,No phone service,Fiber optic,No internet service,Month-to-month,80.6,740.36,No
+Female,0,No,Yes,16,No,No,Fiber optic,Yes,Month-to-month,41.06,3486.34,Yes
+Male,0,No,Yes,11,Yes,Yes,DSL,Yes,One year,101.82,6761.11,Yes
+Male,1,Yes,Yes,43,No,No phone service,Fiber optic,No internet service,One year,107.44,6429.76,Yes
+Male,0,No,No,53,Yes,No phone service,No,No,Month-to-month,41.05,5218.91,Yes
+Female,0,Yes,No,6,No,No,DSL,No internet service,Month-to-month,27.6,5163.2,No
+Female,0,Yes,Yes,31,No,No phone service,No,No,One year,80.36,858.44,No
+Female,0,Yes,Yes,28,No,No phone service,DSL,No,One year,67.99,1615.49,Yes
+Female,1,No,No,45,Yes,No phone service,Fiber optic,No,Month-to-month,62.76,4835.96,Yes
+Male,0,Yes,Yes,52,Yes,Yes,DSL,No,Two year,96.1,3165.32,Yes
+Male,1,No,No,24,Yes,Yes,No,Yes,Two year,116.97,219.49,No
+Male,1,No,No,52,Yes,Yes,DSL,No internet service,Two year,67.77,7193.59,Yes
+Male,0,No,No,28,No,No phone service,Fiber optic,No,One year,20.62,5901.63,No
+Male,1,No,Yes,5,No,No,Fiber optic,Yes,Two year,79.63,2965.78,No
+Female,0,Yes,Yes,37,No,No,No,No,Two year,85.4,928.94,Yes
+Male,1,Yes,Yes,2,No,No,DSL,No,One year,102.8,5341.25,No
+Female,0,Yes,Yes,34,Yes,Yes,No,Yes,Two year,39.94,3169.52,Yes
+Male,1,Yes,Yes,54,No,Yes,No,Yes,Month-to-month,72.43,2335.73,No
+Male,1,Yes,Yes,46,No,Yes,No,No,One year,64.71,6507.15,Yes
+Female,1,No,Yes,32,No,Yes,Fiber optic,No internet service,Month-to-month,86.44,2986.94,Yes
+Female,1,No,Yes,2,Yes,No phone service,DSL,Yes,Two year,26.39,1267.63,Yes
+Male,1,No,No,68,Yes,No,Fiber optic,No internet service,Month-to-month,108.4,4360.8,Yes
+Female,1,Yes,Yes,58,Yes,No,Fiber optic,No,One year,71.12,7464.77,Yes
+Female,0,No,No,17,No,Yes,Fiber optic,No,Two year,107.7,7654.45,Yes
+Female,1,Yes,No,65,Yes,No,DSL,No,One year,54.02,7651.62,No
+Male,0,No,No,24,Yes,No,Fiber optic,No,Two year,85.35,3817.23,No
+Male,1,No,Yes,19,No,Yes,Fiber optic,No,One year,115.67,7128.86,Yes
+Male,0,No,Yes,70,Yes,Yes,Fiber optic,No,One year,114.34,7659.57,No
+Female,1,Yes,Yes,68,No,Yes,DSL,No internet service,Month-to-month,114.41,4162.87,Yes
+Female,1,Yes,No,28,No,Yes,DSL,Yes,One year,24.29,2902.72,No
+Male,1,Yes,Yes,17,Yes,No phone service,No,No,One year,60.3,6332.58,No
+Male,1,Yes,Yes,71,No,No,Fiber optic,Yes,Month-to-month,26.08,8145.0,Yes
+Female,1,No,No,26,No,No phone service,Fiber optic,No internet service,Two year,50.95,8750.76,Yes
+Male,1,Yes,Yes,41,No,No,DSL,No,Two year,37.46,2647.51,No
+Male,1,Yes,No,65,No,No phone service,DSL,No,One year,82.01,8607.73,No
+Female,1,No,No,25,Yes,Yes,Fiber optic,Yes,Month-to-month,98.07,4518.58,No
+Female,0,No,No,22,No,No phone service,No,Yes,Two year,71.33,2789.01,No
+Male,0,No,Yes,4,Yes,Yes,No,Yes,Month-to-month,99.55,8896.16,No
+Female,1,Yes,No,10,No,Yes,Fiber optic,No,One year,21.28,7906.38,No
+Female,0,No,No,18,No,No phone service,No,Yes,Month-to-month,102.05,6247.13,Yes
+Male,1,No,Yes,11,No,No,No,Yes,One year,37.84,8059.73,No
+Female,0,Yes,No,1,No,No phone service,Fiber optic,No internet service,Two year,66.09,6149.32,Yes
+Female,1,No,Yes,42,No,Yes,No,No,Two year,64.26,3991.61,No
+Male,0,Yes,Yes,21,No,Yes,DSL,No,Two year,107.32,8535.04,Yes
+Female,0,Yes,No,25,No,No,Fiber optic,No,Two year,116.6,8671.07,Yes
+Female,1,Yes,Yes,32,Yes,No,DSL,Yes,Month-to-month,45.51,2861.87,Yes
+Male,0,No,Yes,23,Yes,No,Fiber optic,No internet service,Month-to-month,26.74,3221.84,Yes
+Female,1,No,Yes,68,Yes,Yes,DSL,Yes,Month-to-month,85.05,3475.35,No
+Male,1,No,Yes,20,No,No phone service,No,No,One year,70.28,7408.21,Yes
+Male,0,Yes,No,45,Yes,No,DSL,Yes,Two year,76.57,7130.75,Yes
+Female,1,No,Yes,17,No,Yes,DSL,No,Two year,24.63,8848.88,No
+Male,0,Yes,Yes,4,Yes,No phone service,DSL,Yes,Two year,97.53,4213.66,No
+Male,0,No,Yes,7,Yes,No,DSL,Yes,Month-to-month,43.24,6644.07,No
+Female,0,Yes,Yes,56,No,No phone service,DSL,No,Month-to-month,53.49,7717.65,Yes
+Male,0,Yes,No,4,No,No phone service,Fiber optic,Yes,Two year,42.84,2030.01,No
+Male,0,Yes,No,12,No,Yes,DSL,No,One year,114.59,5603.97,Yes
+Female,0,Yes,Yes,65,No,Yes,DSL,Yes,Month-to-month,36.87,4951.98,Yes
+Male,1,Yes,No,36,No,Yes,Fiber optic,Yes,Two year,93.23,6698.3,Yes
+Male,0,Yes,Yes,28,Yes,No phone service,Fiber optic,Yes,Two year,44.57,6274.08,No
+Female,0,Yes,No,68,No,No,No,No,Two year,62.49,7324.49,Yes
+Female,0,Yes,Yes,31,No,No,DSL,Yes,One year,119.61,2834.75,Yes
+Male,1,Yes,Yes,47,No,No,DSL,Yes,Two year,30.06,1986.39,Yes
+Male,1,Yes,No,1,Yes,Yes,No,No internet service,Month-to-month,108.14,7256.53,No
+Male,1,Yes,No,68,No,No,DSL,No internet service,One year,114.6,3277.04,No
+Female,0,Yes,No,50,Yes,No,No,No,One year,89.82,2623.78,Yes
+Male,0,No,No,34,Yes,Yes,Fiber optic,No,Two year,21.0,3064.53,Yes
+Female,0,No,No,14,Yes,No,DSL,No,Month-to-month,102.08,643.87,Yes
+Male,1,Yes,Yes,71,Yes,No,DSL,No,Month-to-month,108.23,6969.64,Yes
+Male,1,No,Yes,64,No,No,Fiber optic,Yes,Two year,118.09,6450.68,No
+Female,1,Yes,Yes,37,No,No phone service,DSL,Yes,Two year,103.93,4996.6,Yes
+Male,0,No,Yes,16,No,No phone service,Fiber optic,No,Month-to-month,64.56,6458.96,No
+Female,0,Yes,No,44,No,Yes,Fiber optic,No,One year,88.86,3389.54,Yes
+Female,1,No,No,0,Yes,Yes,No,No internet service,One year,68.51,2693.55,Yes
+Male,0,Yes,Yes,2,Yes,No phone service,Fiber optic,No,Two year,55.3,7767.59,No
+Male,1,No,Yes,69,No,Yes,No,No internet service,Two year,82.64,3830.97,Yes
+Female,1,Yes,No,51,No,Yes,Fiber optic,No,Month-to-month,96.98,1803.41,Yes
+Female,1,No,No,52,No,No,No,No,Month-to-month,83.59,6753.94,No
+Female,0,No,No,2,Yes,Yes,No,Yes,Month-to-month,102.66,3056.05,Yes
+Male,1,No,No,46,Yes,Yes,No,No,Month-to-month,37.64,1946.07,No
+Male,1,Yes,No,5,Yes,No,No,No internet service,Two year,57.37,293.57,No
+Male,0,No,Yes,45,No,No,DSL,Yes,Two year,51.26,8736.89,Yes
+Male,0,No,Yes,60,Yes,No phone service,Fiber optic,No internet service,Month-to-month,39.41,4232.24,No
+Female,1,Yes,Yes,42,Yes,Yes,Fiber optic,No,Two year,64.32,1497.73,No
+Female,0,Yes,Yes,55,Yes,No,Fiber optic,Yes,Two year,114.79,6832.41,Yes
+Female,0,No,No,69,No,Yes,Fiber optic,No internet service,Month-to-month,73.8,7994.48,Yes
+Male,0,Yes,Yes,19,Yes,Yes,No,No,One year,48.64,4775.31,Yes
+Male,0,No,Yes,46,No,No phone service,DSL,No internet service,One year,55.41,303.82,No
+Male,1,No,Yes,53,No,No phone service,Fiber optic,No,Month-to-month,81.31,3318.03,Yes
+Female,0,Yes,Yes,40,No,No phone service,Fiber optic,No internet service,One year,55.27,2225.76,No
+Female,1,No,Yes,65,Yes,No phone service,Fiber optic,No,Two year,73.83,5745.76,Yes
+Female,0,No,No,30,No,No phone service,No,No internet service,One year,47.42,4693.78,Yes
+Female,0,Yes,Yes,63,Yes,No,Fiber optic,Yes,Month-to-month,54.59,3233.84,Yes
+Male,1,Yes,Yes,57,Yes,No phone service,Fiber optic,No,Month-to-month,90.57,5854.12,No
+Male,0,No,No,54,No,No,DSL,No,One year,78.46,5280.64,No
+Male,0,No,No,45,No,No phone service,No,No internet service,One year,29.35,8163.09,No
+Female,1,No,No,23,No,No,DSL,No,Two year,117.32,5391.39,Yes
+Female,1,Yes,No,36,Yes,Yes,Fiber optic,Yes,One year,24.93,4594.02,Yes
+Female,1,No,Yes,40,No,No phone service,No,No internet service,One year,28.29,7421.85,Yes
+Female,0,No,No,24,Yes,No,Fiber optic,No internet service,One year,90.14,1861.66,Yes
+Male,0,No,Yes,28,No,No phone service,Fiber optic,No internet service,Two year,90.8,2229.9,Yes
+Male,0,Yes,No,30,Yes,No,No,Yes,One year,21.89,7062.98,Yes
+Female,1,No,Yes,1,No,No,DSL,Yes,Two year,84.28,4009.03,Yes
+Male,0,No,No,11,No,No phone service,No,No,Two year,23.33,3712.66,No
+Female,1,Yes,No,4,Yes,No,No,No internet service,Month-to-month,116.08,7989.35,Yes
+Female,1,Yes,Yes,60,No,Yes,DSL,Yes,Month-to-month,89.61,5510.48,Yes
+Female,1,No,Yes,55,No,No phone service,No,No,Two year,38.66,7236.04,No
+Female,1,Yes,No,70,No,Yes,DSL,Yes,Two year,35.81,7298.06,Yes
+Female,1,No,Yes,36,No,No,DSL,Yes,Two year,76.97,1124.24,Yes
+Male,0,No,Yes,35,Yes,No,No,Yes,Month-to-month,83.35,5900.64,No
+Male,1,Yes,Yes,28,Yes,No phone service,No,No,Two year,103.12,8575.02,Yes
+Male,1,No,Yes,37,Yes,Yes,DSL,Yes,Month-to-month,110.33,4346.24,No
+Male,1,No,No,40,Yes,Yes,DSL,Yes,Month-to-month,59.25,6603.03,Yes
+Male,1,No,Yes,32,Yes,No phone service,DSL,Yes,Two year,104.41,5122.26,No
+Male,0,No,No,12,No,Yes,DSL,No internet service,Two year,74.24,1883.37,Yes
+Female,0,No,Yes,5,Yes,No phone service,DSL,Yes,Two year,67.06,1796.98,No
+Female,0,Yes,No,65,No,No phone service,No,No internet service,Month-to-month,89.9,3932.81,Yes
+Male,1,No,No,7,Yes,No,Fiber optic,Yes,One year,30.32,4372.77,No
+Female,0,No,No,63,No,No,No,No internet service,Two year,46.54,4553.04,Yes
+Female,0,Yes,No,8,Yes,Yes,Fiber optic,Yes,One year,101.68,8597.26,Yes
+Female,1,Yes,Yes,22,No,No phone service,DSL,No internet service,One year,70.41,947.28,Yes
+Male,1,Yes,Yes,70,Yes,No phone service,No,No internet service,One year,110.8,3455.71,No
+Male,1,Yes,No,20,No,No phone service,Fiber optic,No internet service,One year,28.87,4655.2,No
+Male,1,Yes,Yes,0,No,No phone service,DSL,Yes,One year,51.34,8669.86,Yes
+Female,1,Yes,Yes,45,No,No,No,No,Month-to-month,55.55,4563.62,Yes
+Male,0,Yes,No,61,No,Yes,Fiber optic,No internet service,Month-to-month,62.27,6988.72,No
+Male,0,Yes,Yes,1,No,No,No,No internet service,Month-to-month,118.68,6756.04,No
+Male,0,No,Yes,43,Yes,No phone service,Fiber optic,No internet service,One year,51.07,5119.67,No
+Female,0,No,Yes,4,No,Yes,No,No internet service,Month-to-month,71.87,1219.79,No
+Male,0,Yes,Yes,38,No,Yes,No,No internet service,Two year,73.61,2007.89,No
+Male,1,No,No,65,No,No phone service,Fiber optic,No,One year,97.08,2199.26,No
+Male,0,No,No,44,Yes,No phone service,No,Yes,Two year,71.79,396.0,Yes
+Female,0,No,Yes,12,No,No,No,No,One year,80.57,3444.0,Yes
+Male,0,No,No,31,No,No,DSL,Yes,One year,95.33,5514.1,Yes
+Male,0,No,No,42,Yes,No phone service,Fiber optic,No,One year,30.11,1341.18,No
+Female,0,Yes,No,7,Yes,No phone service,No,Yes,One year,116.35,1616.57,No
+Male,1,Yes,No,58,No,No,Fiber optic,No internet service,Two year,104.63,6377.53,Yes
+Male,1,No,Yes,10,No,Yes,No,Yes,One year,58.88,1564.82,Yes
+Male,0,Yes,Yes,27,Yes,Yes,Fiber optic,Yes,One year,92.84,1261.25,No
+Male,1,No,Yes,38,No,Yes,Fiber optic,No internet service,Month-to-month,96.23,8801.68,Yes
+Female,0,No,No,25,No,No,DSL,No internet service,One year,105.02,181.88,Yes
+Female,0,No,Yes,71,No,No phone service,DSL,Yes,One year,38.83,2962.4,No
+Female,1,Yes,Yes,25,Yes,Yes,Fiber optic,Yes,One year,90.37,362.68,Yes
+Male,1,No,Yes,31,No,No phone service,No,No internet service,One year,23.33,7550.53,Yes
+Male,1,No,No,45,No,No,Fiber optic,No,One year,31.56,5272.64,No
+Male,0,No,Yes,27,Yes,No,No,No internet service,One year,97.61,479.17,No
+Male,0,Yes,No,6,Yes,No phone service,Fiber optic,Yes,Two year,101.3,5557.49,No
+Female,0,No,No,34,Yes,No phone service,DSL,Yes,Two year,79.24,1151.71,No
+Male,1,Yes,No,65,No,No phone service,DSL,Yes,One year,78.17,4486.81,Yes
+Female,1,No,No,21,No,No phone service,No,No internet service,Two year,94.95,6041.25,Yes
+Male,0,No,No,21,Yes,Yes,Fiber optic,No internet service,Month-to-month,110.61,1379.14,No
+Male,1,No,Yes,2,No,No phone service,No,No,Month-to-month,62.11,4498.6,No
+Female,1,Yes,No,45,Yes,Yes,DSL,Yes,One year,31.48,4143.83,No
+Male,0,No,No,49,No,No,Fiber optic,Yes,One year,103.9,8245.97,Yes
+Male,1,No,No,7,No,Yes,DSL,No internet service,Two year,54.16,8961.53,Yes
+Male,1,No,Yes,3,No,No phone service,DSL,Yes,Month-to-month,33.38,5907.55,Yes
+Male,0,No,Yes,14,No,Yes,Fiber optic,No,One year,81.46,7700.99,No
+Female,0,No,Yes,43,No,No,No,No internet service,Month-to-month,77.81,5839.59,No
+Male,0,No,Yes,38,No,No phone service,Fiber optic,Yes,Two year,67.42,7892.76,Yes
+Female,1,Yes,No,28,Yes,No,DSL,No internet service,One year,105.98,3927.78,Yes
+Female,0,No,No,61,No,No,DSL,No internet service,One year,47.22,5491.51,No
+Male,1,Yes,Yes,33,Yes,No phone service,DSL,No,One year,21.32,7614.27,No
+Male,0,No,No,25,No,Yes,DSL,No internet service,Month-to-month,52.35,8266.87,No
+Female,0,Yes,Yes,17,Yes,No,No,Yes,Two year,20.97,270.91,No
+Female,0,No,Yes,62,Yes,No phone service,Fiber optic,No,Month-to-month,74.36,980.38,No
+Male,1,Yes,Yes,51,No,No,Fiber optic,No internet service,Month-to-month,57.82,8383.99,No
+Male,0,No,No,53,No,Yes,No,Yes,One year,101.39,5138.15,No
+Female,0,Yes,Yes,41,No,No,No,No internet service,Two year,99.76,8912.22,No
+Male,1,No,Yes,53,Yes,No,DSL,No internet service,Two year,63.46,7144.07,Yes
+Male,1,Yes,No,51,No,No,Fiber optic,No,One year,41.65,7372.35,Yes
+Female,0,No,No,12,No,No,Fiber optic,No,Two year,62.24,3505.8,Yes
+Male,0,No,No,31,No,Yes,Fiber optic,No,One year,84.13,2355.0,No
+Female,0,No,No,65,No,No phone service,No,No,One year,39.02,5404.42,Yes
+Male,1,Yes,No,57,Yes,No,DSL,Yes,Two year,97.3,7917.34,Yes
+Female,1,Yes,No,38,No,Yes,DSL,No internet service,Two year,53.06,6545.0,Yes
+Female,0,Yes,Yes,26,Yes,No,Fiber optic,No,Two year,113.22,4275.97,No
+Female,0,No,No,53,Yes,No,DSL,Yes,Two year,71.19,6791.14,No
+Female,0,Yes,No,71,No,No,No,No,Month-to-month,104.71,6229.06,No
+Female,0,No,No,42,No,Yes,No,No internet service,One year,81.59,8221.81,Yes
+Male,1,No,Yes,51,Yes,No,Fiber optic,No,One year,75.46,2408.84,Yes
+Male,1,No,No,13,No,No,DSL,No internet service,One year,88.21,1117.84,No
+Female,1,No,Yes,7,Yes,No phone service,No,No internet service,One year,101.15,4256.96,Yes
+Female,0,No,Yes,34,Yes,Yes,No,Yes,Month-to-month,84.45,3281.67,Yes
+Female,0,No,Yes,17,No,No phone service,No,No,Two year,99.72,8775.01,No
+Female,1,No,Yes,54,No,No phone service,No,No,Two year,39.05,117.16,No
+Female,0,Yes,No,51,No,No phone service,DSL,No internet service,Two year,47.75,8403.78,No
+Male,1,Yes,No,71,Yes,No phone service,No,No,One year,42.97,8597.96,No
+Female,0,No,No,48,Yes,No,No,No internet service,Month-to-month,99.83,506.08,No
+Male,0,No,No,7,No,No phone service,DSL,Yes,Month-to-month,28.61,8011.65,No
+Female,0,Yes,No,36,No,Yes,Fiber optic,No,Two year,99.59,4263.47,No
+Female,1,No,No,65,Yes,No,Fiber optic,No internet service,One year,58.9,6907.05,No
+Male,0,Yes,Yes,40,Yes,No phone service,No,No,Two year,27.95,759.34,No
+Female,0,No,Yes,26,No,No phone service,Fiber optic,No,One year,62.44,8599.09,No
+Female,1,No,No,19,Yes,Yes,DSL,Yes,Two year,50.05,5487.56,No
+Male,0,Yes,No,37,No,Yes,No,No internet service,Two year,79.2,8093.31,No
+Male,0,Yes,No,11,Yes,No phone service,DSL,Yes,Month-to-month,67.25,6073.02,Yes
+Female,1,No,No,41,No,No phone service,Fiber optic,Yes,One year,49.68,4854.45,No
+Male,0,No,No,49,No,No phone service,Fiber optic,Yes,Month-to-month,106.23,1593.84,Yes
+Female,1,Yes,No,30,Yes,No phone service,No,No internet service,Month-to-month,60.68,1642.69,Yes
+Male,0,Yes,Yes,64,Yes,No phone service,Fiber optic,No internet service,Two year,67.07,4279.5,Yes
+Female,0,Yes,Yes,52,No,Yes,No,No,One year,104.66,7840.46,No
+Male,1,No,No,39,No,Yes,No,No internet service,One year,28.91,1081.21,No
+Female,0,Yes,No,38,No,No,DSL,Yes,Two year,58.99,8985.55,No
+Male,1,No,No,9,No,No,Fiber optic,No internet service,Two year,60.29,7889.41,No
+Male,0,Yes,Yes,28,Yes,Yes,Fiber optic,No,Two year,69.58,3563.4,Yes
+Female,1,Yes,Yes,39,No,No,No,Yes,One year,30.61,2315.41,Yes
+Female,0,Yes,Yes,29,Yes,No phone service,No,No,Two year,30.27,8301.87,No
+Female,0,Yes,Yes,1,Yes,No,No,No internet service,Two year,61.64,1152.74,No
+Male,0,No,Yes,27,No,No phone service,No,No,Month-to-month,23.3,3158.24,No
+Female,0,No,No,46,Yes,No phone service,DSL,No,Two year,45.5,801.02,No
+Female,0,Yes,No,31,Yes,No,Fiber optic,No internet service,Two year,40.12,8583.49,Yes
+Male,1,No,Yes,31,No,No,DSL,No,One year,68.94,5577.73,No
+Male,0,No,No,26,No,No phone service,Fiber optic,No internet service,Two year,21.12,3058.81,Yes
+Female,1,No,Yes,53,No,Yes,DSL,Yes,One year,87.57,2515.57,No
+Female,1,Yes,Yes,55,No,No,No,No,Month-to-month,105.56,4024.64,No
+Male,0,Yes,Yes,30,No,No,DSL,Yes,Month-to-month,90.67,867.84,No
+Male,0,No,No,23,Yes,Yes,DSL,No internet service,One year,101.81,8009.67,No
+Female,0,Yes,No,34,No,No,No,No internet service,Two year,84.33,4622.92,No
+Male,1,Yes,No,29,No,No phone service,No,No,One year,70.74,6539.63,No
+Male,0,Yes,No,54,Yes,Yes,Fiber optic,No,Two year,41.9,2142.03,Yes
+Female,0,Yes,No,63,No,Yes,Fiber optic,No internet service,Two year,47.96,4558.56,Yes
+Female,0,No,Yes,32,No,No phone service,DSL,No internet service,Two year,51.77,1939.22,No
+Female,0,No,Yes,45,No,No phone service,DSL,Yes,One year,23.8,7354.05,Yes
+Male,0,Yes,Yes,32,Yes,No phone service,DSL,Yes,Month-to-month,111.31,6988.71,No
+Female,0,No,No,67,No,Yes,No,No,One year,110.03,1376.41,Yes
+Male,1,No,No,63,No,No phone service,Fiber optic,No,Two year,30.78,716.84,No
+Male,0,No,No,29,No,No,DSL,No,One year,75.67,7426.56,Yes
+Male,1,No,Yes,28,No,No,Fiber optic,No,Month-to-month,66.76,1031.35,No
+Male,1,No,Yes,61,No,No phone service,Fiber optic,No,One year,88.34,4958.93,Yes
+Female,0,Yes,Yes,29,Yes,No,No,No,Month-to-month,80.3,4833.66,Yes
+Male,0,No,No,11,No,No,No,No,Month-to-month,32.43,1866.35,No
+Female,1,No,No,66,No,Yes,DSL,No,Two year,86.01,5342.64,No
+Male,0,Yes,Yes,14,No,No phone service,DSL,Yes,Month-to-month,80.89,4549.66,No
+Male,0,Yes,Yes,9,No,No,DSL,No internet service,One year,73.12,4607.24,No
+Female,0,Yes,Yes,60,No,No phone service,DSL,No internet service,One year,60.24,3269.31,No
+Female,0,No,Yes,22,Yes,No phone service,DSL,No,Two year,115.49,7553.94,Yes
+Female,1,No,No,10,Yes,No,Fiber optic,No internet service,One year,104.94,805.12,No
+Female,1,Yes,Yes,15,No,No,Fiber optic,No,Two year,78.51,3975.68,No
+Female,1,No,No,48,No,Yes,No,Yes,One year,20.64,2375.36,Yes
+Female,0,Yes,No,13,Yes,Yes,No,No,One year,63.21,7643.48,Yes
+Male,1,Yes,No,5,Yes,Yes,Fiber optic,Yes,Month-to-month,90.03,2064.47,Yes
+Female,1,No,No,41,Yes,No,No,Yes,Month-to-month,31.73,6914.87,No
+Male,1,Yes,No,16,No,Yes,No,Yes,Month-to-month,60.65,5523.06,No
+Male,0,No,Yes,41,Yes,No phone service,DSL,No,One year,39.17,7879.37,Yes
+Female,0,Yes,No,9,No,Yes,No,Yes,Two year,53.81,5364.46,Yes
+Male,0,Yes,Yes,45,No,Yes,No,No,Two year,22.67,5030.54,No
+Male,0,Yes,Yes,48,Yes,Yes,No,Yes,Two year,32.67,7220.11,Yes
+Female,0,No,No,8,No,No phone service,Fiber optic,Yes,Month-to-month,65.48,5084.25,No
+Female,1,Yes,Yes,38,No,No phone service,Fiber optic,No internet service,One year,109.82,7608.65,Yes
+Male,1,Yes,Yes,1,Yes,No,DSL,No,Month-to-month,69.06,491.4,Yes
+Female,0,Yes,Yes,67,No,Yes,No,No internet service,One year,65.31,4481.59,No
+Female,0,No,Yes,51,Yes,No phone service,Fiber optic,Yes,One year,98.76,7323.59,Yes
+Male,1,No,No,10,Yes,No phone service,DSL,No internet service,One year,46.78,7642.87,Yes
+Female,1,No,Yes,36,Yes,No phone service,No,Yes,Month-to-month,29.51,7514.8,No
+Female,0,No,Yes,71,No,No,DSL,No internet service,One year,40.96,5459.21,No
+Female,0,No,No,21,Yes,No,DSL,No internet service,Month-to-month,99.13,8946.04,Yes
+Male,0,Yes,No,51,Yes,No,No,No,Month-to-month,87.7,1673.41,No
+Male,1,Yes,No,4,No,Yes,Fiber optic,No,One year,29.15,1611.4,No
+Female,1,Yes,No,1,Yes,No phone service,No,No internet service,One year,86.71,343.76,No
+Female,0,Yes,No,4,No,No,No,No internet service,One year,113.16,8904.57,Yes
+Female,0,No,Yes,31,No,No,No,No,Month-to-month,24.5,3164.78,Yes
+Male,1,Yes,No,18,Yes,No phone service,Fiber optic,Yes,One year,81.64,6870.38,Yes
+Male,1,No,Yes,3,Yes,No phone service,No,Yes,One year,57.92,584.41,Yes
+Female,1,No,No,45,No,Yes,Fiber optic,Yes,Two year,70.1,2723.26,Yes
+Female,0,No,Yes,25,Yes,Yes,DSL,Yes,Two year,72.82,5633.43,Yes
+Male,0,Yes,Yes,49,No,Yes,Fiber optic,No internet service,Two year,97.1,4746.78,Yes
+Female,0,No,No,25,Yes,No,DSL,Yes,One year,75.7,1909.35,No
+Female,0,Yes,Yes,70,No,No,DSL,No internet service,Month-to-month,79.31,4181.26,No
+Male,1,No,No,31,Yes,No phone service,No,No internet service,Two year,53.29,1023.6,Yes
+Female,1,Yes,Yes,43,Yes,Yes,Fiber optic,Yes,Month-to-month,32.59,4907.2,Yes
+Female,0,Yes,No,25,No,No phone service,DSL,Yes,Two year,88.27,917.63,No
+Male,0,No,Yes,60,Yes,Yes,DSL,Yes,Two year,20.05,5741.62,Yes
+Female,0,No,Yes,50,Yes,Yes,Fiber optic,No,Month-to-month,52.87,1440.45,Yes
+Male,0,Yes,No,58,No,Yes,Fiber optic,No internet service,Two year,41.8,4946.42,Yes
+Male,0,Yes,No,37,No,Yes,DSL,Yes,Month-to-month,58.85,1205.63,No
+Male,0,No,No,25,No,No phone service,DSL,No,One year,51.13,3636.36,No
+Female,0,No,No,44,Yes,No phone service,Fiber optic,No internet service,One year,90.42,3198.89,No
+Female,0,No,No,30,Yes,No,Fiber optic,No internet service,Month-to-month,46.02,6819.88,Yes
+Female,0,Yes,No,69,No,Yes,DSL,No internet service,Month-to-month,76.08,5788.4,No
+Female,0,No,No,44,No,No phone service,No,Yes,One year,65.58,8436.94,No
+Male,1,Yes,No,30,Yes,Yes,Fiber optic,Yes,Month-to-month,100.11,8301.1,Yes
+Male,1,No,No,60,No,Yes,DSL,No internet service,One year,62.81,6538.71,Yes
+Male,1,No,No,47,No,No,DSL,No internet service,One year,106.39,6946.74,Yes
+Female,1,No,Yes,44,No,No,No,No,Month-to-month,20.01,5642.97,Yes
+Male,0,Yes,Yes,59,Yes,No phone service,Fiber optic,No,Two year,80.48,6240.39,No
+Male,1,Yes,No,60,Yes,No phone service,DSL,No internet service,Month-to-month,20.98,5574.14,No
+Female,1,Yes,No,51,No,No,No,No,One year,91.39,2840.3,Yes
+Female,1,Yes,Yes,51,Yes,No phone service,Fiber optic,No internet service,Two year,43.49,3188.67,Yes
+Male,1,No,No,61,Yes,No phone service,No,No,Two year,58.0,5193.87,Yes
+Female,1,No,Yes,25,No,No,DSL,No internet service,One year,58.04,6495.58,Yes
+Female,0,No,Yes,66,Yes,Yes,No,Yes,Two year,104.64,3684.77,Yes
+Female,1,Yes,Yes,48,No,Yes,DSL,No internet service,Two year,30.21,1326.88,No
+Male,1,Yes,Yes,43,Yes,No,DSL,Yes,Month-to-month,86.69,4161.78,Yes
+Male,0,No,Yes,35,No,Yes,No,No internet service,One year,118.13,8670.53,No
+Male,1,No,No,52,No,Yes,No,Yes,Two year,22.24,1966.08,Yes
+Male,0,Yes,Yes,43,No,No,DSL,No,One year,116.59,5859.17,No
+Male,1,Yes,No,21,Yes,No phone service,No,Yes,Month-to-month,21.84,8843.75,Yes
+Male,0,Yes,Yes,1,No,No,Fiber optic,No,Month-to-month,104.11,3417.33,Yes
+Male,0,Yes,Yes,6,Yes,No,Fiber optic,No internet service,Month-to-month,116.12,7996.56,No
+Male,0,No,Yes,15,No,Yes,No,No,Two year,119.3,7782.88,No
+Female,1,Yes,No,43,Yes,No,No,No,Month-to-month,65.91,3084.45,No
+Female,1,No,Yes,64,No,Yes,Fiber optic,No,One year,106.7,931.73,No
+Male,0,No,Yes,70,No,No,DSL,No internet service,Month-to-month,32.23,1647.93,No
+Female,0,No,No,68,Yes,No phone service,DSL,Yes,Two year,62.54,3323.46,No
+Female,0,Yes,No,60,No,Yes,Fiber optic,No,Month-to-month,50.8,8634.25,No
+Male,0,No,Yes,29,No,No,DSL,No internet service,Two year,59.52,2506.33,No
